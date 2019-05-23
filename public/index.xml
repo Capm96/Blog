@@ -6,10 +6,19 @@
     <description>Recent content on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 May 2019 13:29:25 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2019 16:09:44 -0300</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ignorance Trust and Gratitude</title>
+      <link>/blog/ignorance-trust-and-gratitude/</link>
+      <pubDate>Thu, 23 May 2019 16:09:44 -0300</pubDate>
+      
+      <guid>/blog/ignorance-trust-and-gratitude/</guid>
+      <description>The perpetual cycle.</description>
+    </item>
     
     <item>
       <title>Test blog post</title>
