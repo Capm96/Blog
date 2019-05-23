@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Meghna</title>
+    <title>Portfolio</title>
     <link>/</link>
-    <description>Recent content on Meghna</description>
+    <description>Recent content on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Sep 2018 14:51:12 +0600</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2019 13:29:25 -0300</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Test blog post</title>
+      <link>/blog/testblogpost/</link>
+      <pubDate>Thu, 23 May 2019 13:29:25 -0300</pubDate>
+      
+      <guid>/blog/testblogpost/</guid>
+      <description>This is a test on adding new content to the blog posts.</description>
+    </item>
     
     <item>
       <title>Are You Doing the Right Way</title>
