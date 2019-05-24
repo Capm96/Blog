@@ -22,23 +22,41 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-ul {
-    text-align:center;
+.center{
+    width:180px;
+    margin:0 auto;
+    text-align:left;
+}
+ul{
+    list-style-type: square;
+    font-family:"Quattrocento Sans"
     color:white;
-    list-style-position:
 }
 
 li {
+  font-family:"Quattrocento Sans"
+  color:white;
   padding-bottom: 5px;
 }
 
-h1,
+h1 {
+  font-size: 60px;
+  font-weight: 200;
+  font-family: "Quattrocento Sans", sans-serif;
+  color: #afbac4;
+}
 h2,
 h3,
 h4,
-h5,
+h5 {
+  font-size: 20px;
+  font-weight: 200;
+  font-family: "Quattrocento Sans", sans-serif;
+  color: #afbac4;
+  }
+
 h6 {
-  font-weight: 400;
+  font-weight: 200;
   font-family: "Quattrocento Sans", sans-serif;
   color: #afbac4;
 }
@@ -621,7 +639,7 @@ a:hover {
 }
 
 .hero-area .block h1 {
-  font-size: 90px;
+  font-size: 50px;
   color: #fff;
   text-transform: capitalize;
   font-weight: 700;
@@ -630,7 +648,7 @@ a:hover {
 
 @media (max-width: 480px) {
   .hero-area .block h1 {
-    font-size: 60px;
+    font-size: 40px;
   }
 }
 
