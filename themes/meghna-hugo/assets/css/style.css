@@ -23,10 +23,9 @@ body {
 }
 
 ul {
-    text-align: left;
+    text-align:center;
     color:white;
-    list-style-position: inside;
-    padding-left: 280px;
+    list-style-position:
 }
 
 li {
