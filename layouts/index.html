@@ -58,15 +58,24 @@
 
 
 <!-- Welcome Slider-->
-<section class="hero-area" style='background-image: url("/images/slider/starman.jpg");'>
+<section class="hero-area" style='background-image: url("/images/slider/this.jpg");'>
     <div class="block">
 
-        <h1>Hello</h1>
-        <p>My name is Carlos Motta, I am learning how to program. </p>
-        <br></br>
-        <p>This website contains the projects I am working on well as well as some blog posts on a range of subjects things that interest me. Thanks for visiting!</p>
+        <h1 style="font-size:60px">Hello</h1>
+        <p style="padding-bottom:0px">My name is Carlos Motta, and I like to learn and to write. </p>
+        <p style="padding-bottom:20px">Thanks for visiting my blog. </p>
+        <p style="padding-bottom:20px">Here you will find my thoughts on a variety of subjects, including but not limited to: </p>
 
-        <a data-scroll href="#portfolio" class="btn btn-transparent">View Projects</a>
+        <h5><ul>
+          <li>Astrophysics</li>
+          <li>Philosophy</li>
+          <li>Mathematics</li>
+          <li>History</li>
+          <li>Religion & Mythology</li>
+          <li>Everything else</li>
+        </ul></h5>
+
+        <a data-scroll href="#blog" class="btn btn-transparent" style="font-family:Quattrocento Sans">Start Reading</a>
 
     </div>
 </section>
@@ -78,12 +87,6 @@
 <nav id="navigation" class="navbar navbar-expand-lg navigation sticky-top">
         <div class="container">
 
-                <!-- logo -->
-                <a class="navbar-brand logo" href="/">
-                        <img src="/images/logo.png" alt="Logo" />
-                        <span class="pl-2 font-weight-bold">Portfolio</span>
-                </a>
-                <!-- /logo -->
 
                 <!-- responsive nav button -->
                 <button class="navbar-toggler navbar-dark" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -97,11 +100,7 @@
                         <ul class="navbar-nav ml-auto navigation-menu">
                                 <li class="nav-item"><a class="nav-link" data-scroll href="#body">Home</a></li>
 
-                                <li class="nav-item"><a class="nav-link" data-scroll href="#portfolio">Portfolio</a></li>
-
                                 <li class="nav-item"><a class="nav-link" data-scroll href="#blog">Blog</a></li>
-
-                                <li class="nav-item"><a class="nav-link" data-scroll href="#contact-us">Contact</a></li>
 
                         </ul>
                 </div>
@@ -113,161 +112,6 @@
 <!-- End Fixed Navigation -->
 
 
-
-<!-- Portfolio Section -->
-<section class="portfolio section" id="portfolio">
-    <div class="container">
-        <div class="row ">
-            <div class="col-xl-12">
-                <!-- section title -->
-                <div class="title text-center">
-                    <h2>  Our  <span class="color"> Works </span></h2>
-                    <div class="border-meghna"></div>
-                </div>
-                <!-- /section title -->
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="portfolio-filter">
-                    <button type="button" data-filter="all">All</button>
-
-                    <button type="button" data-filter="photography">Photography</button>
-
-                    <button type="button" data-filter="design">Design</button>
-
-                    <button type="button" data-filter="development">Development</button>
-
-                </div>
-            </div>
-        </div>
-        <div class="row filtr-container">
-            <!-- portfolio item -->
-
-            <div class="col-lg-4 filtr-item" data-category="design">
-                <div class="portfolio-block mb-4">
-                    <img class="img-fluid" src="/images/portfolio/portfolio-1.jpg" alt="work-image">
-                    <div class="caption">
-                        <a class="search-icon image-popup" data-effect="mfp-with-zoom" href="/images/portfolio/portfolio-1.jpg" data-lightbox="image-1">
-                            <i class="tf-ion-android-search"></i>
-                        </a>
-                        <h4><a href="/">Tag Design</a></h4>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-lg-4 filtr-item" data-category="development">
-                <div class="portfolio-block mb-4">
-                    <img class="img-fluid" src="/images/portfolio/portfolio-2.jpg" alt="work-image">
-                    <div class="caption">
-                        <a class="search-icon image-popup" data-effect="mfp-with-zoom" href="/images/portfolio/portfolio-2.jpg" data-lightbox="image-1">
-                            <i class="tf-ion-android-search"></i>
-                        </a>
-                        <h4><a href="/">Sound system</a></h4>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-lg-4 filtr-item" data-category="design, development">
-                <div class="portfolio-block mb-4">
-                    <img class="img-fluid" src="/images/portfolio/portfolio-3.jpg" alt="work-image">
-                    <div class="caption">
-                        <a class="search-icon image-popup" data-effect="mfp-with-zoom" href="/images/portfolio/portfolio-3.jpg" data-lightbox="image-1">
-                            <i class="tf-ion-android-search"></i>
-                        </a>
-                        <h4><a href="/">Clock Product</a></h4>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-lg-4 filtr-item" data-category="photography, development">
-                <div class="portfolio-block mb-4">
-                    <img class="img-fluid" src="/images/portfolio/portfolio-4.jpg" alt="work-image">
-                    <div class="caption">
-                        <a class="search-icon image-popup" data-effect="mfp-with-zoom" href="/images/portfolio/portfolio-4.jpg" data-lightbox="image-1">
-                            <i class="tf-ion-android-search"></i>
-                        </a>
-                        <h4><a href="/">Bottol Label</a></h4>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-lg-4 filtr-item" data-category="design">
-                <div class="portfolio-block mb-4">
-                    <img class="img-fluid" src="/images/portfolio/portfolio-5.jpg" alt="work-image">
-                    <div class="caption">
-                        <a class="search-icon image-popup" data-effect="mfp-with-zoom" href="/images/portfolio/portfolio-5.jpg" data-lightbox="image-1">
-                            <i class="tf-ion-android-search"></i>
-                        </a>
-                        <h4><a href="/">Shopping Bag</a></h4>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-lg-4 filtr-item" data-category="photography">
-                <div class="portfolio-block mb-4">
-                    <img class="img-fluid" src="/images/portfolio/portfolio-6.jpg" alt="work-image">
-                    <div class="caption">
-                        <a class="search-icon image-popup" data-effect="mfp-with-zoom" href="/images/portfolio/portfolio-6.jpg" data-lightbox="image-1">
-                            <i class="tf-ion-android-search"></i>
-                        </a>
-                        <h4><a href="/">Tag Design</a></h4>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-lg-4 filtr-item" data-category="development">
-                <div class="portfolio-block mb-4">
-                    <img class="img-fluid" src="/images/portfolio/portfolio-7.jpg" alt="work-image">
-                    <div class="caption">
-                        <a class="search-icon image-popup" data-effect="mfp-with-zoom" href="/images/portfolio/portfolio-7.jpg" data-lightbox="image-1">
-                            <i class="tf-ion-android-search"></i>
-                        </a>
-                        <h4><a href="/">Business Card</a></h4>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-lg-4 filtr-item" data-category="design, development">
-                <div class="portfolio-block mb-4">
-                    <img class="img-fluid" src="/images/portfolio/portfolio-8.jpg" alt="work-image">
-                    <div class="caption">
-                        <a class="search-icon image-popup" data-effect="mfp-with-zoom" href="/images/portfolio/portfolio-8.jpg" data-lightbox="image-1">
-                            <i class="tf-ion-android-search"></i>
-                        </a>
-                        <h4><a href="/">Stationary Design</a></h4>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-lg-4 filtr-item" data-category="design, photography">
-                <div class="portfolio-block mb-4">
-                    <img class="img-fluid" src="/images/portfolio/portfolio-2.jpg" alt="work-image">
-                    <div class="caption">
-                        <a class="search-icon image-popup" data-effect="mfp-with-zoom" href="/images/portfolio/portfolio-2.jpg" data-lightbox="image-1">
-                            <i class="tf-ion-android-search"></i>
-                        </a>
-                        <h4><a href="/">Tag Design</a></h4>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!</p>
-                    </div>
-                </div>
-            </div>
-
-        </div>
-    </div>
-</section>
-<!-- /Portfolio -->
-
-
-
 <!-- Start Blog Section -->
 
 <section id="blog" class="section">
@@ -276,11 +120,56 @@
             <div class="col-lg-12">
                 <!-- section title -->
                 <div class="title text-center wow fadeInDown">
-                    <h2>    <span class="color">  Writing  </span></h2>
+                    <h2> Writings <span class="color"> On The Wall  </span></h2>
                     <div class="border-meghna"></div>
                 </div>
             </div>
             <!-- /section title -->
+
+            <!-- single blog post -->
+            <article class="col-lg-4 col-md-6 col-12 clearfix wow fadeInUp" data-wow-duration="500ms">
+                <div class="post-block">
+                    <div class="media-wrapper">
+                        <img src="/images/blog/placeholder.jpg" alt="post-image" class="img-fluid">
+                    </div>
+
+                    <div class="content">
+                        <h3><a href="/blog/spaghetti/">Spaghetti and the Entire Future History of The Universe</a></h3>
+                        <p>This is going to be fun</p>
+                        <a class="btn btn-transparent" href="/blog/spaghetti/">Read more</a>
+                    </div>
+                </div>
+            </article>
+
+            <!-- single blog post -->
+            <article class="col-lg-4 col-md-6 col-12 clearfix wow fadeInUp" data-wow-duration="500ms">
+                <div class="post-block">
+                    <div class="media-wrapper">
+                        <img src="/images/blog/placeholder.jpg" alt="post-image" class="img-fluid">
+                    </div>
+
+                    <div class="content">
+                        <h3><a href="/blog/one/">One</a></h3>
+                        <p>This is going to be fun</p>
+                        <a class="btn btn-transparent" href="/blog/one/">Read more</a>
+                    </div>
+                </div>
+            </article>
+
+            <!-- single blog post -->
+            <article class="col-lg-4 col-md-6 col-12 clearfix wow fadeInUp" data-wow-duration="500ms">
+                <div class="post-block">
+                    <div class="media-wrapper">
+                        <img src="/images/blog/dichotomy.jpg" alt="post-image" class="img-fluid">
+                    </div>
+
+                    <div class="content">
+                        <h3><a href="/blog/dichotomy/">The Dichotomy of Reality and our Self-Evident Inadequacies</a></h3>
+                        <p>This is going to be fun</p>
+                        <a class="btn btn-transparent" href="/blog/dichotomy/">Read more</a>
+                    </div>
+                </div>
+            </article>
 
             <!-- single blog post -->
             <article class="col-lg-4 col-md-6 col-12 clearfix wow fadeInUp" data-wow-duration="500ms">
@@ -333,102 +222,6 @@
     </div>
 </section>
 <!-- /blog -->
-
-
-<!-- Start Contact Us -->
-<section id="contact-us" class="contact-us section-bg">
-    <div class="container pb-5">
-        <div class="row">
-            <div class="col-lg-12">
-                <!-- section title -->
-                <div class="title text-center wow fadeIn" data-wow-duration="500ms">
-                    <h2> Get In  <span
-                            class="color"> Touch </span></h2>
-                    <div class="border-meghna"></div>
-                </div>
-            </div>
-            <!-- /section title -->
-
-            <!-- Contact Details -->
-            <div class="contact-info col-lg-6 wow fadeInUp" data-wow-duration="500ms">
-                <h3>Contact Details</h3>
-                 <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci. </p>
-                <div class="contact-details">
-
-                    <div class="con-info clearfix">
-                        <i class="tf-map-pin"></i>
-                        <span>Khaja Road, Bayzid, Chittagong, Bangladesh</span>
-                    </div>
-
-                    <div class="con-info clearfix">
-                        <i class="tf-ion-ios-telephone-outline"></i>
-                        <span>Phone: &#43;880-31-000-000</span>
-                    </div>
-
-                    <div class="con-info clearfix">
-                        <i class="tf-ion-iphone"></i>
-                        <span>Fax: &#43;880-31-000-000</span>
-                    </div>
-
-                    <div class="con-info clearfix">
-                        <i class="tf-ion-ios-email-outline"></i>
-                        <span>Email: hello@meghna.com</span>
-                    </div>
-
-                </div>
-            </div>
-
-            <!-- Contact Form -->
-            <div class="col-lg-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
-                <form id="contact-form" class="form-meghna" method="post" action="sendmail.php" role="form">
-
-                    <input name="e-mail" type="text" id="e-mail" autocomplete="off">
-                    <div class="form-group">
-                        <input type="text" placeholder="Your Name" class="form-control" name="name" id="name">
-                    </div>
-                    <div class="form-group">
-                        <input type="email" placeholder="Your Email" class="form-control" name="email" id="email">
-                    </div>
-                    <div class="form-group">
-                        <input type="text" placeholder="Subject" class="form-control" name="subject" id="subject">
-                    </div>
-                    <div class="form-group">
-                        <textarea rows="6" placeholder="Message" class="form-control" name="message"
-                            id="message"></textarea>
-                    </div>
-                    <div id="mail-success" class="success">
-                        Thank you. The Mailman is on His Way :)
-                    </div>
-                    <div id="mail-fail" class="error">
-                        Sorry, don't know what happened. Try later :(
-                    </div>
-                    <div id="cf-submit">
-                        <input type="submit" id="contact-submit" class="btn btn-transparent" value="Submit">
-                    </div>
-                </form>
-            </div>
-        </div>
-    </div>
-
-</section>
-<!-- /contact -->
-
-        </div><!-- end Contact Area -->
-<footer id="footer" class="bg-one">
-	<div class="container">
-		<div class="row wow fadeInUp" data-wow-duration="500ms">
-			<div class="col-xl-12">
-
-				<!-- Footer Social Links -->
-				<div class="social-icon">
-					<ul class="list-inline">
-
-						<li class="list-inline-item"><a href="#"><i class="tf-ion-social-linkedin"></i></a></li>
-
-						<li class="list-inline-item"><a href="#"><i class="tf-ion-social-github"></i></a></li>
-
-					</ul>
-				</div>
 
 				<!-- copyright -->
 				<div class="copyright text-center">

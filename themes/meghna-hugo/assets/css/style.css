@@ -22,6 +22,17 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+ul {
+    text-align: left;
+    color:white;
+    list-style-position: inside;
+    padding-left: 280px;
+}
+
+li {
+  padding-bottom: 5px;
+}
+
 h1,
 h2,
 h3,

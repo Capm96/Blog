@@ -6,63 +6,36 @@
     <description>Recent content in Blogs on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 May 2019 16:09:44 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2019 16:19:12 -0300</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Ignorance Trust and Gratitude</title>
-      <link>/blog/ignorance-trust-and-gratitude/</link>
+      <title>The Illusion of Free Will and its Moral Implications.</title>
+      <link>/blog/free-will/</link>
+      <pubDate>Thu, 23 May 2019 16:19:12 -0300</pubDate>
+      
+      <guid>/blog/free-will/</guid>
+      <description>It is a myth but it is not a bad thing.</description>
+    </item>
+    
+    <item>
+      <title>The Hidden Beauty of (Mathematical) Irrationality</title>
+      <link>/blog/hidden-beauty/</link>
+      <pubDate>Thu, 23 May 2019 16:15:04 -0300</pubDate>
+      
+      <guid>/blog/hidden-beauty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ignorance, Trust, and Gratitude - An Inescapable Loop</title>
+      <link>/blog/ignorance/</link>
       <pubDate>Thu, 23 May 2019 16:09:44 -0300</pubDate>
       
-      <guid>/blog/ignorance-trust-and-gratitude/</guid>
+      <guid>/blog/ignorance/</guid>
       <description>The perpetual cycle.</description>
-    </item>
-    
-    <item>
-      <title>Test blog post</title>
-      <link>/blog/testblogpost/</link>
-      <pubDate>Thu, 23 May 2019 13:29:25 -0300</pubDate>
-      
-      <guid>/blog/testblogpost/</guid>
-      <description>This is a test on adding new content to the blog posts.</description>
-    </item>
-    
-    <item>
-      <title>Are You Doing the Right Way</title>
-      <link>/blog/are-you-doing-the-right-way/</link>
-      <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
-      
-      <guid>/blog/are-you-doing-the-right-way/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula.</description>
-    </item>
-    
-    <item>
-      <title>Simple Post Title</title>
-      <link>/blog/simple-post-title/</link>
-      <pubDate>Wed, 12 Sep 2018 14:39:16 +0600</pubDate>
-      
-      <guid>/blog/simple-post-title/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula.</description>
-    </item>
-    
-    <item>
-      <title>Simple Image Post</title>
-      <link>/blog/simple-image-post/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      
-      <guid>/blog/simple-image-post/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula.</description>
-    </item>
-    
-    <item>
-      <title>How To Setup Meghna Hugo</title>
-      <link>/blog/installation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/installation/</guid>
-      <description>Install this template by following those simple steps: STEP-1 : Hugo installation Check this link below for install hugo on your computer.</description>
     </item>
     
   </channel>
