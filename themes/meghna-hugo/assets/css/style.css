@@ -23,12 +23,11 @@ body {
 }
 
 .center{
-    width:180px;
-    margin:0 auto;
-    text-align:left;
+    text-align:center;
+    padding-right: 45px;
 }
 ul{
-    list-style-type: square;
+    list-style: none;
     font-family:"Quattrocento Sans"
     color:white;
 }
@@ -36,7 +35,7 @@ ul{
 li {
   font-family:"Quattrocento Sans"
   color:white;
-  padding-bottom: 5px;
+  padding-bottom: 10px;
 }
 
 h1 {
