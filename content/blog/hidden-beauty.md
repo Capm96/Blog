@@ -1,7 +1,7 @@
 ---
 title: "The Hidden Beauty of (Mathematical) Irrationality"
 date: 2019-05-23T16:15:04-03:00
-image: images/blog/goldenratio.jpg
+image: images/blog/sunflower.jpg
 description: "This is a meta description"
 ---
 The words which you are reading now have no objective truth behind them. How could they? We invented them. Every single language on Earth is a human invention, designed to facilitate communication and ultimately enable us to work together cohesively. It is in fact the greatest human invention, since it is the one which all others are built upon.
@@ -146,4 +146,4 @@ As I mentioned earlier, languages are human constructs, whereas mathematics is a
 
 [Other places where Ф is present](https://io9.gizmodo.com/15-uncanny-examples-of-the-golden-ratio-in-nature-5985588)
 
-[Where I got the picture for this post](https://www.designbyday.co.uk/golden-ratio-graphic-design/)
+[Where I got the picture for this post](https://www.google.com/search?q=sunflowers&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=0ahUKEwih04zRiMTiAhUMErkGHRLeAl4Q_AUIDigB&biw=1536&bih=767#imgrc=HPHoWJcTU7QxDM:)
