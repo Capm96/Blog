@@ -36,7 +36,9 @@ However, the one of the properties which has perhaps fascinated people the most 
 
 **The division of adjacent Fibonacci Numbers gets infinitely closer to the Golden Ratio, (also illustrated as the symbol Ф, “Phi”)  or 0.618033…**
 
-For example, let us list the first ten Fibonacci Numbers:
+### One of the relationships between Fibonacci and Ф
+
+Let us list the first ten Fibonacci Numbers:
 
 F = {1, 1, 2, 3, 5, 8, 13, 21, 34, 55}
 
@@ -72,6 +74,9 @@ NOTE: I built this using Unity and WebGL, I am not sure it will work properly if
 
 <iframe src="https://c.simmer.io/static/unityFrame/index.html?url=https%3A%2F%2Fsimmercdn.com%2Funity%2FcxoIdydXsyMr1reTpiqUsm2YJcI3%2Fcontent%2F10062dd3-e3f5-af79-0320-aeb1e2ad48c8&imagePath=screens/0.png" style="width:650px;height:650px;border:0"></iframe>
 
+<br> </br>
+### Figuring out the optimal rotation amount
+
 Well then, how do we figure out the optimal rotation amount? The truth is, there is a straight forward way of doing it. We can already eliminate every rotation amount that represents a rational number.
 
 Why? Because if you rotate by any amount which is rational, eventually you’d find yourself in a position with lines of seeds and empty space between them. To illustrate, try putting in rational rotation amounts, i.e. 0.25, 0.50, 0.75, 1, etc.
@@ -80,9 +85,9 @@ But what about irrational numbers? The fascinating thing about irrational rotati
 
 Notice that even though π is an irrational number, its configuration doesn’t seem very optimal. It gets better with √2, but it is the best with Ф.
 
-**Therefore, it seems that the optimal amount of a turn we must do should be the most irrational of all numbers. And that is precisely the Ф.**
+**Therefore, it seems that the optimal amount of a turn we must do should be the most irrational of all numbers. And that is precisely Ф.**
 
-### Why the Golden Ratio is the Most Irrational of All Numbers
+### Why the Golden Ratio is the most irrational of all numbers
 
 Before we talk about Ф, let’s use π as an example.
 
@@ -114,7 +119,7 @@ Now lets take a look at the continued fraction for Ф.
 
 ![Picture](https://drive.google.com/uc?export=view&id=1b80sLmMVFT-8Ohgp8jIXSW06dHtkZPuB)
 
-Do you notice anything different from Pi’s?
+Do you notice anything different from π’s?
 
 The fractions are all the same! There is no “best” point to truncate the continued fraction at, because all of the fractions have exactly the same denominator. This means that unlike π, which we could approximate early on, Ф has no early approximation -- every fraction adds as much accuracy as the previous.
 
@@ -122,12 +127,15 @@ Because of this, Ф is the most irrational of all numbers.
 
 Also, if you go back to the visualization and count the number of spirals in the 0.618033 rotation, you will get a Fibonacci number. In fact, these Fibonacci Numbers are present in a plethora of configurations within nature. So is Ф.
 
-I find it remarkable that such a seemingly uneventful number is so omnipresent in our world. It is not a coincidence that sunflowers have a Golden Ratio configuration -- it is simply the best way to do it. How could it not be? As we saw, for one very specific example, it is the optimal solution to a problem. And this is true for so many other things which I have not covered in this post, but which I encourage you to search.
+This post illustrated just one way in which Nature, the Fibonacci Numbers, and the Golden Ratio are interlinked. There are so many other incredible examples which I have not covered in this post, but which I encourage you to search.
+
+### Closing thoughts
+
+I find it remarkable that such a seemingly uneventful number is so omnipresent in our world. It is not a coincidence that sunflowers have a Golden Ratio configuration -- it is simply the best way to do it. How could it not be? As we saw, for one very specific example, it is the optimal solution to a problem.
 
 The beauty of all of this is that we had absolutely nothing to do with it -- it was nature herself who adjusted the properties of the universe to maximize her utility. None of this was random. There are a set of rules governing our reality and everything must abide it, from seeds to galaxies.
 
 As I mentioned earlier, languages are human constructs, whereas mathematics is a built-in feature of the universe itself. There is no such thing as inventing mathematics, there is only discovery, because all of its inventions are already done -- it is only up to us to figure it out now, one sunflower at a time.
-
 
 <br> </br>
 ## Sources:
