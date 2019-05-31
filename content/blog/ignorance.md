@@ -1,7 +1,7 @@
 ---
 title: "Ignorance, Trust, and Gratitude - The Inescapable Loop"
 date: 2019-05-31T13:21:56-03:00
-image: images/blog/itg.jpg
+image: images/blog/newitg.jpg
 description: "This is a meta description"
 ---
 
