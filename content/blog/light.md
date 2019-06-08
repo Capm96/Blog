@@ -33,7 +33,8 @@ If you are anything like me and most other people, you probably see them as two 
 
 To make sure we are on the same page, however, we first need to arrive at a more useful explanation of space. The best way to get there it is by imagining everything around you disappear (akin a Thanos snap). The device you are reading this on, the floor which you stand on, the scenery around you including all the houses, cars, people, and everything. Take away everything until there is only you in the darkness of space, and nothing else.
 
-![EmptySpace](https://drive.google.com/uc?export=view&id=1jzPE5e-kjdTKzoXhzlYGh-VHMGWeKQFw)
+<img src="/images/blog/light/empty.jpg" alt="empty space"
+	title="empty space" class="responsive" />
 (Figure 1.1)
 
 That is space.
@@ -53,7 +54,8 @@ To see how these two views are different, we need to understand how both men und
 
 Newton’s understanding of gravity is the one you are most familiar with. Two objects exert an attractive force which depends on their mass and their distance. An object with heavier mass pulls harder than an object with lower mass, and the closest these objects are, the harder the pull.
 
-![NewtonianGravity](https://drive.google.com/uc?export=view&id=144qCSQbsDrTw0Z3lJ8iMg6zarIPm2Mbl)
+<img src="/images/blog/light/newtongravity.jpg" alt="gravity"
+	title="newton gravity" class="responsive" />
 (Figure 1.2)
 
 This is still an extremely precise description of **how** gravity works, and we use Newton’s formulas to this day, but he was not able to tell **why** this gravity exists.
@@ -70,7 +72,8 @@ The universe works in the exact same way.
 
 In the picture below, Earth (the bowling ball) curves space (your mattress) and that curvature of space causes the tennis ball (moon) to alter its path through the mattress (stays in orbit).
 
-![EinsteinGravity](https://drive.google.com/uc?export=view&id=1kfD_p3D9fgiAZjBlPJM_vqjOMRo_fm1u)
+<img src="/images/blog/light/curvature.jpg" alt="curves"
+	title="Einstein gravity" class="responsive" />
 (Figure 1.3)
 
 This is a fascinating realization, and although abstract at the moment, highlights the genius realization of Einstein - that space itself is malleable, and that what we think of gravity is fundamentally curvatures along this malleable fabric.
@@ -182,12 +185,14 @@ Trilateration means combining received signals from at least three different sou
 
 For example, if one satellite broadcasts their signals and your phone picks it up, your phone won’t know exactly where it is, because it could be anywhere within the circle signal from the satellite. It knows this because when it receives the signal, it can calculate the time it took to reach your phone, and infer a circle as such:
 
-![satellite1](https://drive.google.com/uc?export=view&id=1MUaZ0M0YwMn4d1S2D9P-H4QJFnVNUV8R)
+<img src="/images/blog/light/sat1.jpg" alt="sat1"
+	title="sat1" class="responsive" />
 [Figure 1.6]
 
 If you keep repeating the process, however, you can draw an intersection between different signals to pick up your exact location, since they all converge to a very accurate position, as demonstrated in the picture below.
 
-![satellite4](https://drive.google.com/uc?export=view&id=1Nt2pnaB3tbotvsmkjAcUwx8wmQMbj7IE)
+<img src="/images/blog/light/sat2.jpg" alt="sat2"
+	title="sat2" class="responsive" />
 [Figure 1.7]
 
 In short, this is how your phone is able to tell you where you are in the planet.

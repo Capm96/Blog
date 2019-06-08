@@ -26,6 +26,12 @@ body {
     text-align:center;
     padding-right: 45px;
 }
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
 ul{
     list-style: none;
     font-family:"Quattrocento Sans"
