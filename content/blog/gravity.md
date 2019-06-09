@@ -1,6 +1,6 @@
 ---
 title: "The Light That Guides You Home"
-date: 2019-06-06T23:49:04-03:00
+date: 2019-06-08T22:07:43-03:00
 image: images/blog/light.jpg
 description: "This is a meta description"
 ---
