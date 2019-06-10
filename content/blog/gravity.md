@@ -1,7 +1,7 @@
 ---
 title: "The Light That Guides You Home"
 date: 2019-06-08T22:07:43-03:00
-image: images/blog/light.jpg
+image: images/blog/gravity.jpg
 description: "This is a meta description"
 ---
 If you were asked to explain the most implausible fact you know, but which is also true without a doubt, what would it be?
@@ -63,7 +63,7 @@ The universe works in the exact same way.
 
 In the picture below, Earth (the bowling ball) curves space (your mattress) and that curvature of space causes the moon (tennis ball) to alter its path through space (your mattress).
 
-<img src="/images/blog/light/curvature.jpg" alt="curves"
+<img src="/images/blog/gravity/curvature.jpg" alt="curves"
 	title="Einstein gravity" class="responsive" />
 (Figure 1.1)
 
@@ -135,7 +135,7 @@ Let’s imagine we have two brothers, Bob and Alice, which are both at a train s
 
 Both brothers are carrying with them an interesting clock, a light-clock. This clock is made of two mirrors, one at the bottom, and one way up. The clock ticks every time a light beam goes from the bottom mirror to the top mirror and back again (a full-trip) as such:
 
-<img src="/images/blog/light/lightclock.gif" alt="clock1"
+<img src="/images/blog/gravity/gravityclock.gif" alt="clock1"
 	title="clock1" class="responsive" style="width:300px" />
 
 (Figure 1.2)
@@ -146,7 +146,7 @@ For Bob, who is sitting still, his clock will tick every second, as expected. Ho
 
 Alice is moving, and so is her clock, so the beam of light has to travel a larger distance to reach the top mirror, and it also has to travel a larger distance to reach the bottom mirror. In other words, the light beam takes longer to make a full round-trip.
 
-<img src="/images/blog/light/movingclock2.gif" alt="clock2"
+<img src="/images/blog/gravity/movingclock2.gif" alt="clock2"
 	title="clock2" class="responsive" />
 (Figure 1.3)
 
@@ -202,7 +202,7 @@ Trilateration means combining received signals from at least three different sat
 
 For example, if one satellite broadcasts its signals, it will look like this:
 
-<img src="/images/blog/light/sat1.jpg" alt="sat1"
+<img src="/images/blog/gravity/sat1.jpg" alt="sat1"
 	title="sat1" class="responsive" />
 (Figure 1.4)
 
@@ -210,7 +210,7 @@ Your phone receives the signal, but since it only got information from one satel
 
 If you keep repeating the process with more satellites, however, you can draw an intersection between different signals to pick up your exact location, since they all converge to a very accurate position, as demonstrated in the picture below.
 
-<img src="/images/blog/light/sat2.jpg" alt="sat2"
+<img src="/images/blog/gravity/sat2.jpg" alt="sat2"
 	title="sat2" class="responsive" />
 (Figure 1.5)
 
@@ -263,7 +263,7 @@ I cannot think of anything else to say but thank you.
 **[1]**
 The Minkowski diagram helps illustrate spacetime continuum in a cartesian plane. Much the same way you would use a 2D plane to describe the position of anything in a 2D environment, the Minkowski diagram helps illustrate the position of anything in the real world. It does this by plotting time in one axis, and space in the other axis.
 
-<img src="/images/blog/light/MDiagram1.jpg" alt="Minkowskidiagram"
+<img src="/images/blog/gravity/MDiagram1.jpg" alt="Minkowskidiagram"
 	title="Minkowskidiagram" class="responsive" />
 
 Keep in mind that this is a 2D visualization of something that is in reality 4D (we have the three dimensions of space we are familiar with from everyday life, plus the one of time). However, it helps illustrate the union between space and time into the so-called Spacetime continuum.
@@ -290,7 +290,7 @@ This is an interesting discovery because it shows that even for extremely high s
 **[5]**
 The Lorentz transformations for time dilation and length contraction can be better visualized through the Minkowski diagram.
 
-<img src="/images/blog/light/MDiagram2.jpg" alt="Minkowskidiagram2"
+<img src="/images/blog/gravity/MDiagram2.jpg" alt="Minkowskidiagram2"
 	title="Minkowskidiagram2" class="responsive" />
 
 As we saw, the speed of light is a universal constant. With that being said, we can say that this diagram's space axis represents an interval of 300 million meters between every two ticks (the speed of light through one second) so that the speed of light appears to have a linear slope.
