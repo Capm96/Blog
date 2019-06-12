@@ -45,7 +45,7 @@ Consider the arguments that if it were not for the First, maybe the Second World
 
 The Balkans, pictured in the above, is a small region in Southeastern Europe with a long and rich history. The geographical location and the diverse ethnicities (Slavic, Greek, Turkish, etc) of the region made it a melting pot of cultural exchange and mercantile activities for centuries.
 
-A large part of the Balkans had been under Ottoman rule from the 14th century to the early 20th century. At the end of that period, however, the Ottoman rule began to crumble, and it was fully driven off by the two Balkan Wars of 1912 and 1913, unveiling the independence of countries such as Greece, Serbia, Montenegro, and Bulgaria.
+A large part of the Balkans had been under Ottoman rule from the 14th century to the early 20th century. At the end of that period, however, the Ottoman rule began to crumble, and it was almost entirely driven off by the two Balkan Wars of 1912 and 1913, unveiling the independence of countries such as Greece, Serbia, Montenegro, and Bulgaria.
 
 European powers of the time had been interested in the Balkans for two main reasons:
 
@@ -53,11 +53,11 @@ European powers of the time had been interested in the Balkans for two main reas
 
 2)    The question of what would happen to the stability of the region now that the Ottoman empire was gone.
 
-The region also carried some larger-scale importance as it displayed visibly the differing European diplomatic relations at the time. More specifically, Germany was allied with Austria-Hungary, while Russia was allied with Serbia.
+The region also carried some larger-scale importance as it displayed the differing European diplomatic relations at the time. More specifically, Germany was allied with Austria-Hungary, while Russia was allied with Serbia.
 
 ### The brewing of the blaze
 
-Austria-Hungary had annexed Bosnia and Herzegovina by 1908. Bosnia was a Slavic-descendant country which did not really want to be under Austrian rule. Serbia, also a country of Slavic-descent, wanted to annex Bosnia for itself to create a broader pan-Slavic empire. The threats of this territorial expansion by Serbia are some of the reasons why Austria-Hungary sought the support of Germany in case of war.
+Austria-Hungary had annexed Bosnia and Herzegovina by 1908. Bosnia was a Slavic-descendant country which did not really want to be under Austrian rule. Serbia, also a country of Slavic-descent, wanted to annex Bosnia to create a broader pan-Slavic empire. The threats of this territorial expansion by Serbia are some of the reasons why Austria-Hungary sought the support of Germany in case of war.
 
 By 1914, the tensions amidst these threats of territorial expansions, enhanced by the backing of powerful allies and possibility of a major breakout war, created a thin sense of stability in the region.
 
@@ -67,7 +67,7 @@ June 28th is a national holiday for Serbians because, in June 28th of 1389, the 
 
 ### The beginning of madness
 
-On the morning of June 28th, the Archduke and his wife began rolling down on an open car along Appel Quay, a major street running through the center of Sarajevo.
+On the morning of June 28th, the Archduke and his wife began rolling down on an open car along a motorcade in Appel Quay, a major street running through the center of Sarajevo.
 
 Their route was pre-published in advance so that people could position themselves to see the Archduke and his wife. However, that also gave the opportunity for the terrorists to position themselves; six members of a Serbian ultra-nationalistic group called the Black Hand placed themselves throughout Appel Quay, waiting for their opportunity to attack.
 
@@ -79,7 +79,7 @@ The first terrorist to act was Nedeljko Čabrinović, who threw a bomb at the Ar
 
 With the commotion caused by the explosion, the Archduke was hurried along to the Town Hall, where he met with Sarajevo’s mayor. Enraged, he was quoted to have claimed: *“I come here as your guest and your people greet me with bombs!”*. Nonetheless, his wife was able to calm him down, and the Archduke decided to go to the city hospital and visit the wounded from the blast.
 
-General Oskar Potiorek, an Austrian-Hungarian army officer who was at the time the governor of Bosnia & Herzegovina, and who was also travelling with the Archduke and his wife in the vehicle when they were attacked, suggested that they go to the hospital through Appel Quay again, citing that an alternative route might be too dangerous.
+General Oskar Potiorek, an Austrian-Hungarian army officer who was at the time the governor of Bosnia & Herzegovina, and who was also traveling with the Archduke and his wife in the vehicle when they were attacked, suggested that they go to the hospital through Appel Quay again, claiming that an alternative route might be too dangerous.
 
 This was because, despite the attacks in Appel Quay, alternative streets were not prepared in advance for the arrival of the Archduke, and it would be difficult to get through the civilians, while also making the Archduke more vulnerable due to the proximity to other people.
 
