@@ -1,7 +1,7 @@
 ---
 title: "The Light That Guides You Home"
 date: 2019-06-08T22:07:43-03:00
-image: images/blog/gravity.jpg
+image: images/blog/light.jpg
 description: "This is a meta description"
 ---
 If you were asked to explain the most implausible fact you know, but which is also true without a doubt, what would it be?
@@ -135,7 +135,7 @@ Let’s imagine we have two brothers, Bob and Alice, which are both at a train s
 
 Both brothers are carrying with them an interesting clock, a light-clock. This clock is made of two mirrors, one at the bottom, and one way up. The clock ticks every time a light beam goes from the bottom mirror to the top mirror and back again (a full-trip) as such:
 
-<img src="/images/blog/gravity/gravityclock.gif" alt="clock1"
+<img src="/images/blog/gravity/lightclock.gif" alt="clock1"
 	title="clock1" class="responsive" style="width:300px" />
 
 (Figure 1.2)
