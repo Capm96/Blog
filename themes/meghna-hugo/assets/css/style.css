@@ -66,8 +66,11 @@ h6 {
   color: #afbac4;
 }
 
+/* Modify blog word formatting here */
+
 p {
   font-family: "Quattrocento Sans", sans-serif;
+  font-size: 17px;
 }
 
 [scroll-behavior=smooth] {
