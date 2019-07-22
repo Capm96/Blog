@@ -137,8 +137,10 @@ The beauty of all of this is that we had absolutely nothing to do with it -- it 
 
 As I mentioned earlier, languages are human constructs, whereas mathematics is a built-in feature of the universe itself. There is no such thing as inventing mathematics, there is only discovery, because all of its inventions are already done -- it is only up to us to figure it out now, one sunflower at a time.
 
-<br> </br>
-## Sources:
+<br>
+</br>
+
+### Sources:
 
 [The Golden Ratio (why it is so irrational)]( https://www.youtube.com/watch?v=sj8Sg8qnjOg)
 

@@ -299,6 +299,9 @@ Now, as we said, spacetime itself must change to preserve this constant speed of
 
 [Minute Physics](https://www.youtube.com/watch?v=Rh0pYtQG5wI) has some excellent visualizations on this if you are interested.
 
+<br>
+</br>
+
 ### Sources:
 
 [Special Theory of Relativity: Clocks and Rods](https://www.pitt.edu/~jdnorton/teaching/HPS_0410/chapters/Special_relativity_clocks_rods/index.html)
