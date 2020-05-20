@@ -126,9 +126,9 @@ In Roman Mythology, Venus is the goddess of beauty, love, and fertility. A long 
 
 From an astrology [website](https://cafeastrology.com/venus.html): "Venus rules our sentiments, what we value, and the pleasure we take in life. Grace, charm, and beauty are all ruled by Venus. Through Venus, we learn about our tastes, pleasures, artistic inclinations, and what makes us happy."
 
-The words "Grace, charm, and beauty" get me… Let me tell you a little bit about Venus, the planet.
+The words "Grace, charm, and beauty" get me… Let's visit Venus.
 
-Despite it being only the second closest planet to the Sun, Venus is the hottest planet in the Solar System by far. The temperatures at the surface there reach 462 °C, or 863 °F - hot enough to melt lead.
+Although it is the second closest planet to the Sun, Venus is the hottest planet in the Solar System by far. The temperatures at the surface there reach 462 °C, or 863 °F - hot enough to melt lead.
 
 Our hypothesis says that when the sun was younger and cooler, Venus might have had a mild temperature and even liquid water on its surface. As the sun aged and got warmer, Venus' water began evaporating, leaving a vast amount of water vapor in the atmosphere, which trapped heat in the planet and warmed it even further. This led to a runaway greenhouse gas effect because the planet got so hot that the carbon dioxide in the oceans was dissolved away and carried to the atmosphere. It got so hot that the carbon dioxide in rocks and other terrestrial surfaces got baked away into the atmosphere as well. **[9]**
 
@@ -163,8 +163,6 @@ But Polaris will not always be the North Star. That is because the Earth's axis 
 	title="precession" class="responsive" style="width:300px" />
 
   (Figure 1.4)
-
-The problem reconciling Western astrology and precession is the following:
 
 2,000 years ago, when we were coming up with those names for the constellations, our axis was in a different place. Because of that, for example, if you were to walk up to the North Pole and look right above, you would not see Polaris the way we do today.
 Similarly, when we looked up at the sun on October 1st, we would see that it is against the Libra constellation. But, because ~2,000 years have passed, the Earth's axis has rotated a significant amount, and now when we look up again on October 1st, we see that the sun is against Virgo, not Libra.
@@ -297,9 +295,7 @@ It is odd, however, that they are not included. If the planets demonstrate an eq
 
 [6] [Constellations of the ecliptic](https://www.youtube.com/watch?v=eeQwYrfmvoQ) - (I was confused when reading about this at first. This visual might help.)
 
-[7] There is in fact, Ophiuchus, a 13th constellation. As I understand it, Astrologers ignored Ophiuchus for simplicity. Since at the time of the ancient Babylonians we already had a 12-month calendar, it would be much easier to divide the ecliptic into 12 equal parts. Dividing by 13 makes for some confusing math…
-
-As we will see, Western astrologers also do not concern themselves with the constellations, but with the signs. In any case, it is worth noting that an entire constellation was left behind. But, if you are curious, the sun passes in front of the constellation Ophiuchus between around the 30th of November and the 18th of December. If you were born under that time, you were born against the constellation of Ophiuchus, even though your sign is something else.
+[7] There is in fact, Ophiuchus, a 13th constellation. As I understand it, Astrologers ignored Ophiuchus for simplicity. Since at the time of the ancient Babylonians we already had a 12-month calendar, it would be much easier to divide the ecliptic into 12 equal parts. Dividing by 13 makes for some confusing math… The sun passes in front of the constellation Ophiuchus between around the 30th of November and the 18th of December. If you were born under that time, you were born against the constellation of Ophiuchus, even though your sign is something else.
 
 [8] *Babylonian Star-lore by Gavin White, Solaria Pubs, 2008, page 175*
 
