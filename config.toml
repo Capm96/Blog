@@ -5,6 +5,9 @@ title = "Portfolio"
 theme = "meghna-hugo"
 summaryLength = 10
 
+[markup]
+  defaultMarkdownHandler = "blackfriday"
+
 [taxonomies]
   author = "author"
   category = "categories"
