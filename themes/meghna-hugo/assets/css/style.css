@@ -11,14 +11,14 @@ Tags: one-page, single-page, portfolio, custom-colors, post-formats, responsive,
 @import url("https://fonts.googleapis.com/css?family=Montserrat:400,700|Open+Sans:300,400,600");
 
 html {
-  background-color: #353b43;
-  color: #737f8a;
+  background-color: white;
+  color: white;
 }
 
 body {
-  background-color: #353b43;
+  background-color: white;
   font-family: "Anaheim", sans-serif;
-  color: #737f8a;
+  color:black;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -34,13 +34,14 @@ body {
 
 ul{
     list-style: none;
-    font-family:"Quattrocento Sans"
-    color:white;
+    font-family: "Anaheim", sans-serif;
+    color:black;
+    -webkit-font-smoothing: antialiased;
 }
 
 li {
-  font-family:"Quattrocento Sans"
-  color:white;
+  font-family: "Anaheim", sans-serif;
+  color:black;
   padding-bottom: 10px;
 }
 
