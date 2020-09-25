@@ -1,7 +1,7 @@
 ---
-title: "Etfs"
+title: "Untangling a Mess"
 date: 2020-09-24T20:12:15+01:00
-image: images/blog/archduke.jpg
+image: images/blog/complicated.jpg
 description: "This is a meta description"
 ---
 
@@ -23,16 +23,16 @@ There are thousands of ways in which one could invest their money. These ways de
 
 For many of us, however, the profile is the same: 
 
-1. We do not know much about finance.
-* We do not want to take on too much risk.
-* We want to put a little bit away at the end of every month, so that we can save for the long-term (first car, first house, retirement, etc.)
+1. We want to put a little bit away at the end of every month, so that we can save for the long-term (first car, first house, retirement, etc.)
+- We do not want to take on too much risk.
+- We do not know much about finance, and we do not want to spend much of our time thinking about this. It should be simple.
 
-The following tries to address what someone with that profile might do, and untangle a tiny amount of the financial mess our world displays, and show that behind these curtains lies something which is not as complicated we might believe.
+The following tries to address what someone with that profile might do, and untangle a tiny amount of the financial mess our world displays, and show that behind these curtains lies something which is not as complicated as we might believe.
 
 ## Stocks
 Imagine we decided to open a bakery. We know how to bake, and we have a store, but we need an initial investment to get our business running (buy our equipment, hire our employees, make our advertising, etc.)
 
-This is where we will use stocks (also called shares). Shares are one way in which we can raise money. They are literal pieces of paper that allow us to divide our business ownership however we like, so we can sell it for the cash we need.
+This is where we will use stocks, which are also called shares. Shares are one way in which we can raise money. They are literal pieces of paper that allow us to divide our business ownership however we like, so we can sell it for the cash we need.
 
 We use shares because they make life a lot easier. Think of our bakery for instance – it is just a store with a kitchen in the back. If you and I owned this store, how could we put a line on what is mine and what is yours? 
 
@@ -70,10 +70,10 @@ The first investor who bought 20 shares for $1,000 now might be able to sell the
 
 And that is a share: 
 
-1. A piece of paper that allows us to divide our business. If we have a building, drawing a line and dividing that across all owners is difficult. It is much easier to create these pieces of paper that represent the ownership of the business and distribute that accordingly.
+1. A piece of paper that allows us to divide our business. If our business has buildings, for example, dividing that by drawing lines on the floor is impossible. It is much easier to create these pieces of paper that represent the ownership of the business and distribute those accordingly.
 2. Each share represents a certain % of ownership of the business. The number of shares a business has is a bit arbitrary.
-3. The first time we sell our shares to investors, we exchange them for cash which we can use to start our business. 
-4. How much each business owner has in shares defines how much they will take of the profits.
+3. During the first time we sell our shares to investors, we exchange them for cash which we can use to start our business. 
+4. How many shares each business owner has defines how much they will take of the profits.
 5. The price of a share, and the price of almost anything in general, follows the law of supply and demand. If many people are trying to buy it, the price will increase. If many people are trying to sell it, the price will decrease. 
 
 ## Stock Market
@@ -87,9 +87,10 @@ The NYSE does not operate this way! The NYSE is a secondary market. When you buy
 
 <img src="/images/blog/etf/shares-art.png" alt="curves"
 	title="Einstein gravity" class="responsive" />
-(Figure 1.1)
+(Figure 1.0)
 
 So, if when we put money in the stock market, we are not actually giving money to a company, what are we doing? 
+
 Essentially… gambling.
 
 Today we can go online and buy an Apple share. For that to happen, someone on the opposite side of the screen went online and sold an Apple share. A transaction is settled.
@@ -97,6 +98,7 @@ Today we can go online and buy an Apple share. For that to happen, someone on th
 The person that is buying believes the price of the share will increase, thus making them a return.
 
 The person that is selling believes the price of the share will decrease, so they are trying to get out early.
+
 Who is right?
 
 Well, nobody is consistently right… This happens because no one can predict what will happen tomorrow. 
@@ -107,7 +109,7 @@ We cannot. Nobody can. Every single exchange that takes place in a stock market 
 
 How often are people correct in their bets?
 
-Not very often.[more stats?] # LINKS HERE #
+[Not](https://www.aei.org/carpe-diem/more-evidence-that-its-really-hard-to-beat-the-market-over-time-95-of-finance-professionals-cant-do-it/) [very](https://www.cnbc.com/2019/03/15/active-fund-managers-trail-the-sp-500-for-the-ninth-year-in-a-row-in-triumph-for-indexing.html) [often](https://www.ft.com/content/592fcf3e-b005-4263-b30b-6f28db16fa95) [!](https://www.marketwatch.com/story/why-investing-as-an-individual-is-so-difficult-2019-12-11)
 
 This is not to say that every one that is involved with stock trading is wasting their time – far from it. Certain companies can indeed prove to be useful for managing their investors’ money. 
 
@@ -115,9 +117,7 @@ Wealth managers dedicate their entire careers around understanding the financial
 
 Other companies, like Berkshire Hathaway (Warren Buffet’s company), have a business model that revolves around investing in specific companies, and their success indicates that they are mostly getting it right.
 
-However, for the average individual, picking stocks is an extremely unfavorable position to be in. We do not know what will happen tomorrow!
-
-While it is true that individual transactions are gambles, it is also true that the stock market tends to increase in value over time. This is not an effect of gambling, but an effect of economics.
+However, for the average individual, picking stocks is an extremely unfavorable position to be in. We do not know what will happen tomorrow! But while it is true that individual transactions are gambles, it is also true that the stock market tends to increase in value over time. This is not an effect of gambling, but an effect of economics.
 
 As time goes on, the economy grows, which gives people more income, which they use to buy more products, which generates profits for companies, who will grow and produce more things, and the economy grows…
 
@@ -141,15 +141,15 @@ This difference in graphs reflects the things we mentioned earlier.
 
 In the short term, the market is much more influenced by gambles: money is going in and out of the market quickly, with no clear direction. People will not become richer overnight, and so the amount of money going in and out of the stock market is nearly constant.
 
-In the long term, however, the overall value of the market tends to grow as the economy grows. Now enough time has passed for people to have more money, which they will often use to put in the stock market, increasing demand, increasing value…
+In the long term, the overall value of the market tends to grow as the economy grows. Now enough time has passed for people to have more money, which they will often use to put in the stock market, increasing demand, increasing value…
 
 One way of seeing this is that the stock market is constantly a gamble. The difference is that over time, people have more money to gamble with! And with more money, they can buy more shares, which increases their price, which increases the market value…
 
-In any case, the ride of the stock market is never smooth. Even on that long-term graph, there are many places where you see the line going down. The 2000’s internet bubble, the 2008 recession, now with the coronavirus.
+In any case, the ride of the stock market is never smooth. Even on that long-term graph, there are many places where you see the line going down. The 2000’s internet bubble, the 2008 recession, and now with the Covid-19 pandemic.
 
-Over time though, economies seem to almost always recover. And as they grow, the value of the stock market will also grow. However, this is not a guarantee! Not all stock markets rise with time. But, in general, they tend to do so.
+Over time though, economies seem to almost always recover. And as they grow, the value of the stock market will also grow. However, this is not a guarantee. Not all stock markets rise with time. But, in general, they tend to do so.
 
-We will use this fact that the market seems to increase in value over time to our advantage. The madness of trading can be left to the professionals. We do not want to take gambles. We want to plan in the long-term. We want to ride the trajectory like the first graph. To achieve these goals then, we might engage in passive investing. 
+We will use this fact that the market seems to increase in value over time to our advantage. The madness of trading can be left to the professionals. We do not want to take gambles. We want to plan in the long-term. We want to ride the upwards trajectory shown in the first graph. 
 
 In summary:
 
@@ -185,7 +185,7 @@ Imagine that on the next day, some news comes out about Apple releasing a new iP
 Day 2: Stock market is worth $2,200. (1,000 Apple shares * $1.2) + (1,000 Microsoft shares * $1). </br>
 Day 2: Boat is worth $22. (10 Apple shares * $1.2) + (10 Microsoft shares * $1).
 
-Both the stock market and our boat increase 10% in value! And just like this movement, our boat will follow every single one of the stock market’s footsteps. 
+Both the stock market and our boat increased 10% in value! And just like this movement, our boat will follow every single one of the stock market’s footsteps. 
 
 Over time the hope is that we rise, just like that first graph we saw. This could take many years. But, as we saw, the tendency is that economies grow with time, and so their stock markets are expected to rise too. 
 
@@ -206,15 +206,13 @@ Because how do we know it will keep doing that? It would be quite risky to put a
 
 Still, quite risky. Only relying on two stocks which are both technology firms (same sector shares risks).
 
-“Okay, let’s put into 10 stocks.”
-
-We could keep extending this logic until you reach the entire market (where our boat is!), at which point no further diversification is possible. And the more diversified your portfolio is, the safer you are. True, you will also lose the possibility of large returns on a single stock, but as we mentioned, this is an investment strategy for people that do not want to take too much risk.
+We could keep extending these debates until we reach the entire market (where our boat is!), at which point no further diversification is possible. And the more diversified your portfolio is, the safer you are. True, you will also lose the possibility of large returns on a single stock, but as we mentioned, this is an investment strategy for people that do not want to take too much risk.
 
 So here is where we find ourselves:
 
 We know that picking individual stocks is a gamble because nobody knows what will happen in the future. Playing in the stock market is too risky. 
 
-We know that over time, economies tend to grow. As economies grow, the stock markets will also increase in size.
+We know that over time, economies tend to grow. As economies grow, the stock markets will also grow.
 
 If we want to minimize gambling and maximize safety, a good choice would simply be to invest in the entire stock 
 market and leave that untouched. What this allows us to do is follow whatever the stock market does. 
@@ -227,7 +225,7 @@ We mentioned a lot of abstract things, so let us look at a real boat.
 	title="Einstein gravity" class="responsive" />
 (Figure 1.3)
 
-The above is an ETF. It is created by a company called Vanguard. This ETF tracks down all the stock markets in the world, and creates a huge boat which combines all shares in all stock markets in the world. This contains information about the ETF above.
+The above is an ETF. It is created by a company called Vanguard. This ETF tracks down all the stock markets in the world, and creates a huge boat which combines all shares in all stock markets in the world. [This](https://www.vanguardinvestor.co.uk/investments/vanguard-ftse-all-world-ucits-etf-usd-distributing) contains information about the ETF above.
 
 Here are some of the returns:
 
@@ -245,35 +243,33 @@ This is not the sexiest investment option. It will not turn us rich overnight. B
 
 Indeed, there are thousands of other investment opportunities. ETF’s might not be the best choice for people who are looking at more short-term returns, or people who are willing to accept more risk. 
 
-For many of us, however, our goals are long-term safety and stability, ETF’s can be a great option. They are very well-diversified because they invest in all stocks. They are easy to access. They are cheap compared to other investments because they do not require much maintenance. They can swing up and down in the short-term, but in the long term, they tend to always make decent returns. 
+For many of us, however, our goals are long-term safety and stability, and ETF’s can be a great option for that. They are very well-diversified because they invest in all stocks. They are easy to access. They are much cheaper compared to other investments because they do not require much maintenance. They can swing up and down in the short-term, but in the long term, they tend to always make decent returns. 
 
 In conclusion:
 
 1.	There is something called an ETF which allows us to replicate exactly what the stock market does, allowing us to create a “boat” which will carry shares in the exact same direction of the stock market. Because of this, like the stock market, we will swing in the short term. But over the long-term, we tend to rise. Whatever happens to the stock market happens to us.
 2.	ETF’s are cheap to buy, easy to maintain, low-risk, very diversified, and quite easy to access. There are many companies out there, like Vanguard, who offer ETF’s with great ease. One could open an account with them and begin investing in the same day.
-3.	ETF’s will not make us rich overnight. They could take years to make decent returns. And on a given year, they could even lose money. But, they are one of the best ways that we have of replicating the stock market, and over time they tend to rise.
+3.	ETF’s will not make us rich overnight. They could take years to make decent returns. And on a given year, they could even lose money. But they are one of the best ways that we have of replicating the stock market, and over time they tend to rise.
 
 ## Subtleties
 
 If you are still here, I hope the above helped you even a little. Most importantly, I hope now you have enough to go explore what strategies suit your needs. You do not need to read what follows. These are just things I would like to point out for completeness, but the main ideas are already mentioned above. 
 
-1. There are ETFs for every single asset class in the world. Technology firms, real estate firms, German firms, commodities ETF’s, green energy ETF’s… the institutions that create ETF’s explore virtually all asset classes and cluster them into ETF’s. When looking at equities, however, a global ETF fulfills the tenets of diversification like no other. 
-
-2. ETF’s can also include debt instruments. People who usually vouch for ETF’s will usually mix equity with debt ETFs because they complement each other quite nicely in terms of risk/reward. As diversified as equity ETF’s are, they are still subject to downturns in recessions and periods of stock market losses. Cushioning that with debt can be quite useful. 
+1. Shares are not the only way a firm can raise cash. There is another way, and that is through debt, or, getting a loan. How many shares and how much debt a firm uses depends on many factors. Often, it will be a combination of both, since abusing one can be more expensive.
 
 3. The view of shares above was simplified. In the real world, shares are more than just a means of distributing ownership. They often include voting rights which allow the shareholders to elect the board of directors in a company, which in turn choose who the CEO of the firm is. Some shares do not include voting rights, and instead might just give the shareholder the right to earn dividends. There are all flavors of shares out there. Also, in large corporations like Apple, it is not a requirement that 100% of the profits get returned to the shareholders. All companies keep part of their profit. The other part is what goes back to shareholders as dividends.
 
-4. Shares are not the only way a firm can raise cash. There is another way, and that is through debt. How much equity (shares) and how much debt a firm uses depends on many factors. Often, it will be a combination of both, since abusing one can be more expensive.
+8.	When we hear on the news that Amazon has reached a USD$ 2 trillion value, that number is calculated by multiplying all Amazon shares by their prices. As of today, Amazon has around 500 million shares in the market. The price of each of these shares is around USD$ 3,300. The value, or market cap, of Amazon, is 500,000,000 * $3,300, or, USD$ 1.65 trillion. We can calculate the market cap for an entire stock market as well. We just need to sum all of the market caps from the companies inside the market. 
 
 5.	Primary market transactions often take place as IPO’s (Initial Public Offerings). These are not open to individuals. They usually involve the issuing company hiring an investment bank, which will then sell the shares to a select group of corporations. We can only access these shares once these corporations let go of them in the stock market. 
 
-6.	ETFs also have their flaws. One of them is that they are subject to the movements of the market to the dot. If the market goes down substantially, the ETF will also go down substantially. What you get in exchange for this mirroring is a really low payment fee for the ETF, since it is really easy to use it. (the managers of the ETF just do whatever the stock market is doing – passive investing). This contrasts well with mutual funds who have a higher fee, but who provide more risk-adjusted returns. Mutual fund managers are actively modifying the portfolio to ensure that they are doing the best they can. This is the difference between active investing and passive investing. A mutual fund manager that is knowledgeable about the market might be able to prevent the fund from dropping as low as the market in times of financial turmoil. However, in exchange for this hands-on-deck management, one needs to pay a higher fee.
-
 7.	Past performance is not an indication of future performance. This is true for Apple, the entire stock market, or the economy of the US. It could be that we are now on a downward trajectory for many years to come. That is quite unlikely, however. And if we were in a position where the economy was continually shrinking, stock prices might be one of the last of our concerns.
 
-8.	When we hear on the news that Amazon has reached a USD$ 2 trillion value, that number is calculated by multiplying all Amazon shares by their prices. As of today, Amazon has around 500 million shares in the market. The price of each of these shares is around USD$ 3,300. The value, or market cap, of Amazon, is 500,000,000 * 3,300, or, USD$ 1.65 trillion. We can calculate the market cap for an entire stock market as well. We just need to sum all of the market caps from the companies inside the market. 
+6.	ETFs also have their flaws. One of them is that they are subject to the movements of the market to the dot. If the market goes down substantially, the ETF will also go down substantially. What you get in exchange for this mirroring is a really low payment fee for the ETF, since it is really easy to use it. The creators of the ETF just do whatever the stock market is doing - this is also called passive investing. This contrasts well with mutual funds, or active investors, who have a higher fee, but who can provide more risk-adjusted returns. Mutual fund managers are actively modifying the portfolio to ensure that they are doing the best they can. This is the difference between active investing and passive investing. A mutual fund manager that is knowledgeable about the market might be able to prevent the fund from dropping as low as the market in times of financial turmoil. However, in exchange for this hands-on-deck management, one needs to pay a higher fee, which in the long-term might erode a large chunk of the gains.
 
-## Further readings:
+1. There are ETFs for so many things in the world. Technology stocks, real estate stocks, green energy stocks, Japanese stocks... the companies that create ETF’s explore virtually all asset classes. There are also ETF's for things outside of stocks, like commodities for example. ETF’s can also include debt (loans). People who usually vouch for ETF’s will usually mix shares with debt ETFs because they complement each other quite nicely in terms of risk/reward. As diversified as equity ETF’s are, they are still subject to downturns in recessions and periods of stock market losses. Cushioning that with debt can be quite useful. 
+
+## Further readings and sources:
 Thinking Fast and Slow – Daniel Kahneman
 
 The Bogleheads Guide to Investing – Jack Bogle
@@ -285,6 +281,16 @@ Good resources to find a lot more information on budgeting, saving, and investin
 https://www.reddit.com/r/personalfinance/
 
 https://www.bogleheads.org/forum/index.php
+
+Figure 1.0 - My amazing powerpoint skills
+
+Figure 1.1 - Google SP&500
+
+Figure 1.2 - Google SP&500
+
+Figure 1.3 - Google VWRL
+
+Figure 1.4 - https://www.vanguardinvestor.co.uk/investments/vanguard-ftse-all-world-ucits-etf-usd-distributing
 
 
 
