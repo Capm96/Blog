@@ -30,6 +30,7 @@ For many of us, however, the profile is the same:
 The following tries to address what someone with that profile might do, and untangle a tiny amount of the financial mess our world displays, and show that behind these curtains lies something which is not as complicated as we might believe.
 
 ## Stocks
+
 Imagine we decided to open a bakery. We know how to bake, and we have a store, but we need an initial investment to get our business running (buy our equipment, hire our employees, make our advertising, etc.)
 
 This is where we will use stocks, which are also called shares. Shares are one way in which we can raise money. They are literal pieces of paper that allow us to divide our business ownership however we like, so we can sell it for the cash we need.
@@ -85,9 +86,9 @@ Primary market transactions happen when a business sells its shares to the inves
 
 The NYSE does not operate this way! The NYSE is a secondary market. When you buy Apple shares on the NYSE, you are not giving money to Apple. You are buying the shares from another investor, which could be another individual just like you. None of the money goes to Apple. This is an exchange conducted solely between you and the person selling the share.
 
-<img src="/images/blog/etf/shares-art.png" alt="curves"
-	title="Einstein gravity" class="responsive" />
-(Figure 1.0)
+<img src="/images/blog/etf/shares-art.png" alt="shares-art"
+	title="shares-art" class="responsive" />
+(Figure 1.1)
 
 So, if when we put money in the stock market, we are not actually giving money to a company, what are we doing? 
 
@@ -125,17 +126,17 @@ And within this cycle, more money in the economy means more money being put into
 
 And as we saw, when there is more demand for something, its price will increase. Thus, more money going in the stock market increases the prices of its shares, which increases the total stock market value. 
 
-<img src="/images/blog/etf/sp-long-term.jpg" alt="curves"
-	title="Einstein gravity" class="responsive" />
-(Figure 1.1)
+<img src="/images/blog/etf/sp-long-term.jpg" alt="sp-long-term"
+	title="sp-long-term" class="responsive" />
+(Figure 1.2)
 
 The graph above shows the US stock market value over 30+ years. In this time frame, the effects of economics we mentioned can be seen. It takes a long time for these cycles to take place, but almost all countries become richer with time, and their stock markets tend to have the shape above.
 
 Weekly, however, not enough time has lapsed to give way to these economic effects. In such a short-term, the market is solely dictated by the sum of all gambles we spoke of earlier. Weekly, the stock market can look like this:
 
-<img src="/images/blog/etf/sp-short-term.jpg" alt="curves"
-	title="Einstein gravity" class="responsive" />
-(Figure 1.2)
+<img src="/images/blog/etf/sp-short-term.jpg" alt="sp-short-term"
+	title="sp-short-term" class="responsive" />
+(Figure 1.3)
 
 This difference in graphs reflects the things we mentioned earlier. 
 
@@ -163,6 +164,7 @@ In summary:
 
 
 ## Enter ETFs
+
 Remember the first graph we saw of the stock market over the long-term? Imagine that is like a wave. We want to make a boat to ride it. 
 
 We will be creating a boat that will move exactly as the stock market does. If the market goes down 5%, we go down 5%. If the market goes up 10%, we go up 10%. Our goal is to do exactly what the stock market does.
@@ -223,15 +225,15 @@ We mentioned a lot of abstract things, so let us look at a real boat.
 
 <img src="/images/blog/etf/vwrl-long-term.jpg" alt="curves"
 	title="Einstein gravity" class="responsive" />
-(Figure 1.3)
+(Figure 1.4)
 
 The above is an ETF. It is created by a company called Vanguard. This ETF tracks down all the stock markets in the world, and creates a huge boat which combines all shares in all stock markets in the world. [This](https://www.vanguardinvestor.co.uk/investments/vanguard-ftse-all-world-ucits-etf-usd-distributing) contains information about the ETF above.
 
 Here are some of the returns:
 
-<img src="/images/blog/etf/vwrl-returns-long.jpg" alt="curves"
-	title="Einstein gravity" class="responsive" />
-(Figure 1.4)
+<img src="/images/blog/etf/vwrl-returns-long.jpg" alt="vwrl-returns-long"
+	title="vwrl-returns-long" class="responsive" />
+(Figure 1.5)
 
 Since its inception in 2012, this investment option returned 128% -- our money would have more than doubled in these 8 years. The benchmark in that graph is the actual stock market, where is the NAV is our boat – you can see how closely the two things are linked. 
 
@@ -269,7 +271,11 @@ If you are still here, I hope the above helped you even a little. Most important
 
 1. There are ETFs for so many things in the world. Technology stocks, real estate stocks, green energy stocks, Japanese stocks... the companies that create ETF’s explore virtually all asset classes. There are also ETF's for things outside of stocks, like commodities for example. ETF’s can also include debt (loans). People who usually vouch for ETF’s will usually mix shares with debt ETFs because they complement each other quite nicely in terms of risk/reward. As diversified as equity ETF’s are, they are still subject to downturns in recessions and periods of stock market losses. Cushioning that with debt can be quite useful. 
 
+<br> </br>
+
 ## Further readings and sources:
+
+
 Thinking Fast and Slow – Daniel Kahneman
 
 The Bogleheads Guide to Investing – Jack Bogle
@@ -282,16 +288,12 @@ https://www.reddit.com/r/personalfinance/
 
 https://www.bogleheads.org/forum/index.php
 
-Figure 1.0 - My amazing powerpoint skills
-
-Figure 1.1 - Google SP&500
+Figure 1.1 - My amazing powerpoint skills
 
 Figure 1.2 - Google SP&500
 
-Figure 1.3 - Google VWRL
+Figure 1.3 - Google SP&500
 
-Figure 1.4 - https://www.vanguardinvestor.co.uk/investments/vanguard-ftse-all-world-ucits-etf-usd-distributing
+Figure 1.4 - Google VWRL
 
-
-
-
+[Figure 1.5](https://www.vanguardinvestor.co.uk/investments/vanguard-ftse-all-world-ucits-etf-usd-distributing)

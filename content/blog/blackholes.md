@@ -14,13 +14,13 @@ The gentle monster in the dark sky is another of such awe-inspiring components o
 
 This gentle monster is a black hole. It is a truly remarkable feat of human development that we are even able to talk about such things. From mere hypothesis to objective parts of the universe, black holes have fascinated people since they were first conceived in our minds, and still continue to fascinate us today, when we can finally see them. For all their simplicity, mystery, and grandiosity, black holes are some of the most fascinating places on the entire universe.
 
-## The recipe for a star ##
+### The recipe for a star
 
 A very long time ago, our universe began in a profound and interesting way. In less time than you can blink your eyes, the universe went from being smaller than the smallest thing you can think of, to being bigger than the biggest thing you can think of. This unimaginable expansion of spacetime was the Big Bang – the moment of birth of the universe itself.  
 
 Unlike how it is sometimes depicted, the Big Bang was not an explosion. It was more the case where the "edges" of the universe were expanding very rapidly. There was nowhere for an explosion to happen because there was no space before the Big Bang. It was the creation of the canvas which everything lays on, rather than the splashing of some paint on top of the canvas.
 
-The Big Bang brought along the ride a substantial, but fixed, amount of matter (atoms). **[1]** When the initial expansion slowed down a bit, the atoms could finally catch a break and go dancing, and they began attracting each other through gravity. The same force that keeps us from floating into space today is the same one who first brought together the atoms at the beginning of time.
+The Big Bang brought along the ride a substantial, but fixed, amount of matter (atoms). [^1] When the initial expansion slowed down a bit, the atoms could finally catch a break and go dancing, and they began attracting each other through gravity. The same force that keeps us from floating into space today is the same one who first brought together the atoms at the beginning of time.
 
 When a lot of these atoms got lumped together through gravity, they began heating up. In general, things get warmer as you compress it, and the little particles at the beginning of the party were no different.
 
@@ -28,16 +28,17 @@ Eventually, there were so many atoms under such incredible temperatures that som
 
 Our sun is but a gargantuan ball of gas (mostly Hydrogen), who's core is undergoing nuclear fusion at this very moment, releasing a tremendous amount of energy in the process and allowing us to live the way we do. That beautiful warmth on a sunny summer day, and that vital light that feeds life itself – they are both products of nuclear fusion happening in our sun's belly!
 
-A star like our sun will maintain this process of nuclear fusion for a very long time. However, it does not last forever. **[2]**
+A star like our sun will maintain this process of nuclear fusion for a very long time. However, it does not last forever. [^2]
 
-## Turning inwards ##
+### Turning inwards
+
 Someone named Albert once came up with an equation: E=MC<sup>2</sup>.
 
 This equation states that energy = mass * the speed of light<sup>2</sup>. The equation has so many beautiful repercussions worthy of their own discussions. For now, we are only interested in one, which states that **matter and energy are the same thing, just in different forms.**
 
 The sun exposes this concept magnificently.
 
-In the sun’s core, there is a lot of Hydrogen. Hydrogen is the lightest and simplest atom that exists (it only has one proton and one electron). When two Hydrogen atoms undergo nuclear fusion, they become a single Helium atom, which is the next lightest and simplest atom on the periodic table. **[3]**
+In the sun’s core, there is a lot of Hydrogen. Hydrogen is the lightest and simplest atom that exists (it only has one proton and one electron). When two Hydrogen atoms undergo nuclear fusion, they become a single Helium atom, which is the next lightest and simplest atom on the periodic table. [^3]
 
 This seemingly simple fusion, however, is literally what allows us to live.
 
@@ -79,7 +80,7 @@ nada + gravity = ?
 
 The answer depends on how massive the star is. Some stars will explode in magnificent supernovas, some stars will become smaller versions of themselves, and some stars, the largest ones, will become black holes.
 
-After a certain threshold **[4]** there is so much matter that
+After a certain threshold [^4] there is so much matter that
 
 nada + gravity = unstoppable inward collapse.
 
@@ -92,7 +93,8 @@ Eventually, this process reaches a point of such absurd implications that the un
 
 (Figure 1.1)
 
-## Let there be dark ##
+### Let there be dark 
+
 A black hole is black because it emits no visible light. It emits no light because it does not allow for light to escape its grip!
 
 If you throw a ball up in the air, it will go up, lose speed, stop (momentarily) then fall back downwards (gravity is pulling). If you had Hulk’s strength and threw the ball up, it would keep going up and up and up until it escaped Earth, and then it would just fly into space.
@@ -109,8 +111,8 @@ Not even light can escape from it, and light travels at 300,000 km per second, w
 
 The point at which the gravity becomes so strong that light cannot escape is called the event horizon. The event horizon is the line which afterward, all becomes dark. It is the final cross from which there is no coming back from. In the picture below, it would be the edge of where the bright things become dark in the circle. If you happen to cross that line, there appears to be no coming back.
 
-<img src="/images/blog/blackholes/eventhorizon.jpg" alt="not"
-	title="Not Found" class="responsive" />
+<img src="/images/blog/blackholes/eventhorizon.jpg" alt="eventhorizon"
+	title="eventhorizon" class="responsive" />
 
 (Figure 1.2)
 
@@ -130,7 +132,7 @@ If you were trying to calculate your body density, for instance, you would divid
 
 We can try to calculate the density of the singularity in the same way. We know its mass (a lot) and we know its size (zero). Hence, the singularity is a place of apparent infinity density and the universe along with our reason goes kaput.
 
-## Further oddities ##
+### Further oddities
 
 We know a black hole is part of our sun’s family. It was once also a star, a big one, shining bright throughout the universe. Due to its incredible size, once it reached the end of its nuclear fusion lifecycle, it had no more energy to counteract the tremendous gravity that it exerted, which prompted it to fall inwards on itself.
 
@@ -138,7 +140,7 @@ This fall was unstoppable, and there was enough matter to create a point in spac
 
 The star is still a sphere -- delineated by the event horizon, which is the final line. Once we cross that, there is no coming back. Absolutely anything that crosses that line will get sucked in by the black hole.
 
-## Seeing the back of your head ##
+### Seeing the back of your head
 
 The satellites that bless us with the GPS are in a stable orbit around Earth. That means that they keep going around the Earth in a balanced manner – they are neither falling inwards and crashing down nor flying outwards and floating in space. To maintain this balance, they need to fly around the Earth at a speed of approximately 11,000 kilometers per hour – more than ten times faster than a commercial airplane.
 
@@ -152,10 +154,11 @@ So if you could, hypothetically, find yourself in that orbit, you would look str
 
 Fortunately (or unfortunately, depending on your keenness to see the back of your head) this is only a hypothesis – the orbit where photons could travel in a circle would be much too strong for humans, and we would fall in and become spaghetti.
 
-## Spaghettification ##
+### Spaghettification
+
 The Earth and Moon have been interwoven in a cosmic waltz for eons. Bound by gravity, these two heavenly bodies will be locked together in motion through space for a long time.
 
-One product of this dance is that we only see one side of the moon – always. The references to the “Dark Side” of the moon revel on this fact to some extent. There is the side which we always see, and there is this dark side which we can’t see (although it is not really dark, because the sun shines on it too, we just can’t see it because it is facing away from us). **[5]**
+One product of this dance is that we only see one side of the moon – always. The references to the “Dark Side” of the moon revel on this fact to some extent. There is the side which we always see, and there is this dark side which we can’t see (although it is not really dark, because the sun shines on it too, we just can’t see it because it is facing away from us). [^5]
 
 The moon also creates some interesting effects for us down here on Earth. One is the tides. We have all heard of it some way or another before – “Don’t go in the water now! It is high tide.”
 
@@ -167,12 +170,13 @@ Near a black hole, however, the gravitational forces are so severe that an objec
 
 To that extent, as a person would be falling in (feet first) their feet would begin to be pulled harder than their heads. A lot harder. This would elongate and stretch them, turning them into an ever-thinner straw, starting from the feet. This process would only get more explicit and dramatic as they kept falling in, until their feet became single atomic lines and what once was a human is now an atom pasta. This would keep happening all the way up to their heads. “Spaghettification” is a legitimate scientific term.
 
-<img src="/images/blog/blackholes/spaghetti.jpg" alt="not"
-	title="Not Found" class="responsive" />
+<img src="/images/blog/blackholes/spaghetti.jpg" alt="spaghetti"
+	title="spaghetti" class="responsive" />
 
 (Figure 1.3)
 
-## Theories about what lies inside ##
+### Theories about what lies inside
+
 There will always be people who claim that something is impossible. Doubt and skepticism have been omnipresent throughout history, and interesting ideas are always often met with a “this will never happen”.
 
 Light without fire, putting a man on the moon, talking to someone in Australia from your home in New York… if we go back enough, a lot of what we have today seemed like an impossibility at some point.
@@ -191,15 +195,16 @@ Alternatively, it could be that the singularity pokes through the fabric of spac
 
 Other theories allude to the black hole being a time machine (although not any black hole will do this – it needs to possess certain characteristics) which would allow you to get in and get out at a different point in time. Similarly, the black hole could also be a "space" machine, like a wormhole, that could allow you to get in and out in a totally different place in the universe.
 
-## Seeing what can't be seen ##
+### Seeing what can't be seen
+
 How do you see something which emits or reflects no light? This is difficult to do.
 
 Imagine for instance that you are in your room, and you have a black piece of paper that reflects no light. You throw this piece of paper around randomly and turn the lights off in your room. How would you know where the paper is? It emits no light, and it reflects no light, and its surroundings are as dark as it is.
 
 Luckily, visible light (i.e., the stuff that we see in everyday life) is not the only type of light that exists. Visible light is only a tiny portion of the electromagnetic spectrum, which is a range of wavelengths that light exists under.
 
-<img src="/images/blog/blackholes/em.jpg" alt="not"
-	title="Not Found" class="responsive" />
+<img src="/images/blog/blackholes/em.jpg" alt="em"
+	title="em" class="responsive" />
 
 (Figure 1.4)
 
@@ -219,8 +224,8 @@ Imagine yourself near a lake. A very still and calm lake. Then you throw a rock 
 
 Gravitational waves are similar in concept to the waves in the lake. Except that they don’t permeate through water, but through spacetime itself. The fabric behind everything is shaken and stretched when events massive enough happen – in particular, when two black holes are colliding.
 
-<img src="/images/blog/blackholes/waves.gif" alt="not"
-	title="Not Found" class="responsive" />
+<img src="/images/blog/blackholes/waves.gif" alt="waves"
+	title="waves" class="responsive" />
 
 (Figure 1.5)
 
@@ -234,7 +239,7 @@ Then, people fire up the lasers and wait…
 
 Eventually, the scientists noticed that lasers in different pipelines across the world felt the same disturbance. These disturbances were caused by spacetime itself squeezing and stretching (albeit an extremely tiny amount – only detectable by these high-accuracy lasers). This shaking of the fabric of reality itself was caused by two black holes colliding light-years away from Earth. And we were able to know that happened.
 
-## Flying away ##
+### Flying away
 
 The discovery of black holes and the fact that we can study such things represent the ingenuity and greatness of the human mind. Around a hundred years ago, when we did not have any means to detect these gentle monsters, brilliant people simply *implied* that they might exist.
 
@@ -246,30 +251,19 @@ Somehow, for some reason, billions of years ago, atoms got together in a beautif
 
 In the poem that is reality, black holes seem to be the full stops between the sentences that describe the laws of the cosmos. Like full stops, black holes are neutral -- neither good nor evil – they simply delineate the limits of the story itself. They represent endings. They represent beginnings. Perhaps our duty is to keep studying this poem, a line at a time, and always get a little bit closer at lifting the veil of the mystery of nature itself.
 
-## Footnotes: ##
+<br> </br>
 
-[1] For reasons which we yet do not understand, there was some left-over matter during this period. In theory, there should not have been any matter at all (the universe should be "empty").
+### Footnotes and sources
 
-During the Big Bang, the extreme conditions of the early universe caused matter and anti-matter particles to come in and out of existence, annihilating each other. For some unknown reason, matter outweighed anti-matter by a very tiny fraction (something like one billion and one particles of matter for one billion particles of anti-matter). This excess matter would eventually become you, the moon, and the stars. Indeed, every single atom in our bodies can trace back its ancestry to the Big Bang.  
+[^1]: For reasons which we yet do not understand, there was some left-over matter during this period. In theory, there should not have been any matter at all (the universe should be "empty"). During the Big Bang, the extreme conditions of the early universe caused matter and anti-matter particles to come in and out of existence, annihilating each other. For some unknown reason, matter outweighed anti-matter by a very tiny fraction (something like one billion and one particles of matter for one billion particles of anti-matter). This excess matter would eventually become you, the moon, and the stars. Indeed, every single atom in our bodies can trace back its ancestry to the Big Bang.   -->
 
-[2] Nuclear fusion keeps mixing elements up until it reaches Iron. The Iron atoms are not able to be fused into anything new, and so the nuclear fusion process comes to a halt.
-During the Big Bang, only a few elements were created – the simpler ones. Things like Hydrogen and Helium.
+[^2]: Nuclear fusion keeps mixing elements up until it reaches Iron. The Iron atoms are not able to be fused into anything new, and so the nuclear fusion process comes to a halt. During the Big Bang, only a few elements were created – the simpler ones. Things like Hydrogen and Helium. Then, during the lifetime of stars, heavier elements (up until Iron) were created. Finally, a lot of the more exotic and even heavier elements are only created with super-duper crazy conditions, like the massive explosions that take place in a star’s final days – a supernova. There, elements like copper, mercury, gold, iodine, and lead are created.
 
-Then, during the lifetime of stars, heavier elements (up until Iron) were created. Finally, a lot of the more exotic and even heavier elements are only created with super-duper crazy conditions, like the massive explosions that take place in a star’s final days – a supernova. There, elements like copper, mercury, gold, iodine, and lead are created.
+[^3]: Helium is the only element in the period table that was not discovered on Earth! It was inferred to exist by analyzing the sun’s spectrum (i.e. the light that it emits). Scientists could not find any element on Earth that had the same light signatures as Helium. It was only many years later that they would eventually find the element Helium here on Earth. Since they discovered the element coming from the Sun, they named it after the Greek Sun God (Helios).
 
-[3] Helium is the only element in the period table that was not discovered on Earth! It was inferred to exist by analyzing the sun’s spectrum (i.e. the light that it emits). Scientists could not find any element on Earth that had the same light signatures as Helium. It was only many years later that they would eventually find the element Helium here on Earth. Since they discovered the element coming from the Sun, they named it after the Greek Sun God (Helios).
+[^4]: This threshold is called the Schwarzschild Radius, after the physicist Karl Schwarzschild, who came up with this solution while out on the battlefield during the First World War. All we need to do to find out this radius is plug an object's mass into a formula, and boom. Anything that has mass could become a black hole – all it takes is compressing it into an area with a small enough radius. Earth could become a black hole too! All we would have to do is compress every single atom that is on Earth into a space that has a radius no larger than 9 millimeters.
 
-[4] This threshold is called the Schwarzschild Radius, after the physicist Karl Schwarzschild, who came up with this solution while out on the battlefield during the First World War.
-
-All we need to do to find out this radius is plug an object's mass into a formula, and boom. Anything that has mass could become a black hole – all it takes is compressing it into an area with a small enough radius.
-
-Earth could become a black hole too! All we would have to do is compress every single atom that is on Earth into a space that has a radius no larger than 9 millimeters.
-
-[5] The moon only shows one side to us because its rotation period (how long it takes to go around its axis) is equal to its orbit period (how long it takes to go around Earth). This is a result of tidal locking between the Earth and the moon, and a not so unusual phenomenon in our solar system. Pluto and its moon, Charon, are also tidally locked.
-
-Sources:
-
-[Header picture](https://www.google.com/search?q=photo+of+the+black+hole&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjvr7mz_vnnAhV5QEEAHcIJCg0Q_AUoAXoECA4QAw&biw=1280&bih=624#imgrc=od6aD23Y3EWLTM)
+[^5]: The moon only shows one side to us because its rotation period (how long it takes to go around its axis) is equal to its orbit period (how long it takes to go around Earth). This is a result of tidal locking between the Earth and the moon, and a not so unusual phenomenon in our solar system. Pluto and its moon, Charon, are also tidally locked.
 
 [Figure 1.1](https://www.google.com/search?q=error+404+astronomy&tbm=isch&ved=2ahUKEwidpruh7-rnAhVVdRQKHSbfAQgQ2-cCegQIABAA&oq=error+404+astronomy&gs_l=img.3...31930.32790..32870...0.0..0.65.609.10......0....1..gws-wiz-img.......0i67j0j0i8i30.lqLZyoXuPig&ei=yBxUXp2iENXqUaa-h0A&bih=624&biw=1263&hl=en#imgrc=8QN6flhN60Y5dM)
 

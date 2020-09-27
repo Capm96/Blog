@@ -101,7 +101,8 @@ What we need is a “Continued Fraction". This is a fraction that goes on foreve
 
 Here is what the beginning of π's continued fraction looks like:
 
-![Picture](https://drive.google.com/uc?export=view&id=1eK5WxM--BxS6hsgo8p0oq-1BZ5Fbf2wZ)
+<img src="/images/blog/flower/fraction1.jpg" alt="fraction1"
+	title="fraction1" class="responsive" />
 
 If you try to truncate, i.e. cut short, the continued fraction at some point, you will get an approximation of π. This approximation's accuracy depends on where you truncate the continued fraction.
 
@@ -117,7 +118,8 @@ Therefore, it seems we can approximate irrational numbers by truncating them at 
 
 Now lets take a look at the continued fraction for Ф.
 
-![Picture](https://drive.google.com/uc?export=view&id=1b80sLmMVFT-8Ohgp8jIXSW06dHtkZPuB)
+<img src="/images/blog/flower/fraction2.jpg" alt="fraction2"
+	title="fraction2" class="responsive" />
 
 Do you notice anything different from π’s?
 
@@ -137,8 +139,7 @@ The beauty of all of this is that we had absolutely nothing to do with it -- it 
 
 As I mentioned earlier, languages are human constructs, whereas mathematics is a built-in feature of the universe itself. There is no such thing as inventing mathematics, there is only discovery, because all of its inventions are already done -- it is only up to us to figure it out now, one sunflower at a time.
 
-<br>
-</br>
+<br> </br>
 
 ### Sources:
 

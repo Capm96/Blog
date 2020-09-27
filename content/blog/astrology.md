@@ -2,7 +2,6 @@
 title: "No Need To Look Away"
 date: 2019-08-19T18:34:32+04:00
 image: images/blog/astrology.jpg
-description: "This is a meta description"
 ---
 When I was little, my mother would tell me "eat your vegetables!" all the time. Most of the time I did not want to eat the vegetables. But she would tell me "it is for your own good", and I believed her. **I believed her.**
 
@@ -16,7 +15,7 @@ This is because beliefs can be harmless, but they can also be extremely dangerou
 
 There is another belief which falls somewhere in the more harmless side of the spectrum, but which constitutes a meaningful part in modern life: astrology.
 
-There is a vast number of people who believe in astrology. Gallop Polls suggest that around one in four American, Canadian, or British people believe in astrology. **[1]** This equates to millions of people around the world. Not to mention populous countries which take astrology quite seriously, as in India.
+There is a vast number of people who believe in astrology. Gallop Polls suggest that around one in four American, Canadian, or British people believe in astrology. [^1] This equates to millions of people around the world. Not to mention populous countries which take astrology quite seriously, as in India.
 
 But, if astrology is under the more harmless side, what is the problem in believing in it?
 
@@ -30,17 +29,17 @@ Secondly, even though astrology concerns itself with something incredibly intere
 
 Lastly, some people are shaping their decisions around astrological claims. While not harmful and deeply personal, these decisions are not a threat – yet, they might steer you in an entirely new direction, and based on what? From finding a potential match for a partner, to the meetings in the Reagan administration, astrologically based decisions can be taken seriously. Before we choose to base our lives on that, we should consider the reasons behind such extraordinary claims.
 
-### The foundations of astrology ###
+### The foundations of astrology
 
-The goal of astrology is to understand how our lives are influenced by hidden forces in the universe. We can understand these hidden forces through the patterns of planets **[2]**, and we use these patterns to help us in making day to day decisions. "As above, so below".
+The goal of astrology is to understand how our lives are influenced by hidden forces in the universe. We can understand these hidden forces through the patterns of planets [^2], and we use these patterns to help us in making day to day decisions. "As above, so below".
 
 Depending on the time which you were born, you will possess different personality attributes based on the position of the planets at that given time. Note, however, that it is not so much that the planets exert a direct force upon you, it is the alignment and configuration of the planets are the representation of the underlying forces of the universe, which do affect your life.
 
 For instance, it is not Venus itself that is influencing you to do something, but you can see that something is influencing you through the position of Venus. This something is generally accepted to be an intangible cosmic force – we are unable to detect or measure this in any way except by looking at the patterns of the planets. To that extent, astrology seeks to understand these patterns and help us make decisions around that.
 
-The first thing to note is that there are many different types of astrology. The relationship between humans and the skies is something that almost all civilizations sought to understand, and many astrological systems arose to bridge the gap. **[3]**
+The first thing to note is that there are many different types of astrology. The relationship between humans and the skies is something that almost all civilizations sought to understand, and many astrological systems arose to bridge the gap. [^3]
 
-Two of the most prominent today are Western astrology and Indian (Vedic) astrology. Unfortunately, these two have incompatible claims, and they follow a different set of rules when it comes to making astrological claims. **[4]**
+Two of the most prominent today are Western astrology and Indian (Vedic) astrology. Unfortunately, these two have incompatible claims, and they follow a different set of rules when it comes to making astrological claims. [^4]
 
 **This is an extremely important point which highlights a serious inconsistency in astrology as a subject in general.**
 
@@ -64,11 +63,9 @@ We are placed in this same conundrum with astrology. Taking only two of the majo
 
 And what about all the other types of astrology? Who is right in the end?
 
-### Arbitrary names and real traits – Part I ###
+### Arbitrary names and real traits – Part I
 
-There is something called the ecliptic which is very important in understanding astrology. The ecliptic is an imaginary line that traces the path of the sun across the sky throughout the year. **[5]**
-
-
+There is something called the ecliptic which is very important in understanding astrology. The ecliptic is an imaginary line that traces the path of the sun across the sky throughout the year. [^5]
 
 <img src="/images/blog/astrology/ecliptic.gif" alt="Ecliptic"
 	title="ecliptic" class="responsive" />
@@ -83,7 +80,7 @@ It is a lot like trying to figure out what clouds look like on a sunny day. But,
 
 The reason why the stars behind the sun do not appear to move is that they are extremely far away. The sun is much closer, and we are orbiting it, so it appears to move across this "fixed" background of stars.
 
-There are 88 constellations in total, but only 12 of them that are in that path that we talked about, the ecliptic. **[6]** These constellations are Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius, and Pisces. **[7]**
+There are 88 constellations in total, but only 12 of them that are in that path that we talked about, the ecliptic. [^6] These constellations are Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius, and Pisces. [^7]
 
 <img src="/images/blog/astrology/constellations.jpg" alt="constellations"
 	title="constellations" class="responsive" />
@@ -104,7 +101,7 @@ It is quite smart of Western astrologers to deal with these fixed-sized signs ra
 
 But there is a deep relationship between the constellations and the signs. After all, the names of the signs came from the constellations. And the attributes behind these signs came from the figures that the constellations represent.
 
-For example, Libra was known in Babylonian astronomy as MUL Zibanu (the "scales" or "balance"). The scales were held sacred to the sun god Shamash, who was also the patron of truth and justice. Since then, Libra has been associated with law, fairness, and civility. **[8]**
+For example, Libra was known in Babylonian astronomy as MUL Zibanu (the "scales" or "balance"). The scales were held sacred to the sun god Shamash, who was also the patron of truth and justice. Since then, Libra has been associated with law, fairness, and civility. [^8]
 
 **This is extremely important. It means that all the attributes of the sign of Libra were interpreted from what ancient Babylonians thought the constellation looked like.**
 
@@ -118,7 +115,7 @@ The next time you read a horoscope about Leo, for instance, remember that it cou
 
 They could have decided that it looked like a wolf, a deer, a sheep, a horse, or anything. What personality traits would we have in that case?
 
-### Arbitrary names and real traits – Part II ###
+### Arbitrary names and real traits – Part II
 
 One thing I find interesting is how dishonest these egocentric interpretations of celestial objects can be. Take Venus for example.
 
@@ -130,7 +127,7 @@ The words "Grace, charm, and beauty" get me… Let's visit Venus.
 
 Although it is the second closest planet to the Sun, Venus is the hottest planet in the Solar System by far. The temperatures at the surface there reach 462 °C, or 863 °F - hot enough to melt lead.
 
-Our hypothesis says that when the sun was younger and cooler, Venus might have had a mild temperature and even liquid water on its surface. As the sun aged and got warmer, Venus' water began evaporating, leaving a vast amount of water vapor in the atmosphere, which trapped heat in the planet and warmed it even further. This led to a runaway greenhouse gas effect because the planet got so hot that the carbon dioxide in the oceans was dissolved away and carried to the atmosphere. It got so hot that the carbon dioxide in rocks and other terrestrial surfaces got baked away into the atmosphere as well. **[9]**
+Our hypothesis says that when the sun was younger and cooler, Venus might have had a mild temperature and even liquid water on its surface. As the sun aged and got warmer, Venus' water began evaporating, leaving a vast amount of water vapor in the atmosphere, which trapped heat in the planet and warmed it even further. This led to a runaway greenhouse gas effect because the planet got so hot that the carbon dioxide in the oceans was dissolved away and carried to the atmosphere. It got so hot that the carbon dioxide in rocks and other terrestrial surfaces got baked away into the atmosphere as well. [^9]
 
 Because of this, Venus is extremely hot with an incredibly thick atmosphere. The pressure in Venus' atmosphere is around 92 times that of the Earth. It is like the one you would experience if you were around 900 meters down in the water. Have you ever had your ears pop when you swim too deep? Now imagine being 900 meters down. Now imagine that is the pressure on the *surface* of a planet.
 
@@ -142,7 +139,7 @@ We assigned this planet an entirely arbitrary name. We then used the attributes 
 
 Venus could have been given the name of a Greek goddess, or an Egyptian goddess, or a Norse goddess – what would its attributes be in that case?
 
-### The Wobble of the Blue Marble - Precession ###
+### The Wobble of the Blue Marble - Precession
 
 If you are not at least a little bit confused by now, I am doing a poor job. So, let me add in more confusion through something called precession.
 
@@ -165,6 +162,7 @@ But Polaris will not always be the North Star. That is because the Earth's axis 
   (Figure 1.4)
 
 2,000 years ago, when we were coming up with those names for the constellations, our axis was in a different place. Because of that, for example, if you were to walk up to the North Pole and look right above, you would not see Polaris the way we do today.
+
 Similarly, when we looked up at the sun on October 1st, we would see that it is against the Libra constellation. But, because ~2,000 years have passed, the Earth's axis has rotated a significant amount, and now when we look up again on October 1st, we see that the sun is against Virgo, not Libra.
 
 The rotation of the axis, or precession, does a full turn every 26,000 years. Since around 2,000 years have passed since we named the constellations, we have done about 1/12th of the full rotation. Since there are 12 constellations, this means that we have shifted by about one entire constellation. Which is why we can look at the sky on the same date as we did 2,000 years ago and see Virgo instead of Libra.
@@ -181,7 +179,8 @@ The response to precession by Western astrologers, so far as I understand, is th
 
 But, how can it be that to account for precession, they can claim a sort of no-relationship between the signs and the constellations, when in fact all the definitions of such signs come from the constellations in the first place?
 
-### The issue of non-falsifiability ###
+### The issue of non-falsifiability
+
 Our reality is governed by four fundamental forces. Behind every interaction you ever had, everything that you see, and everything that you feel, these four forces lie:
 
 Gravity (what pulls you down when you jump).
@@ -198,7 +197,8 @@ I will not drag too much on this part because the implications of having somethi
 
 I have beliefs of my own which are not based on anything I can touch, see, or feel. But it is always important to maintain the skeptic mind to prevent the catastrophes that may arise from bad beliefs, as we mentioned early. It is also important to consider this issue of non-falsifiability in combination with all the other points to get a clearer picture of astrology as a whole.
 
-### The studies ###
+### The studies
+
 As we saw, astrology has an inherent non-falsifiability problem which makes it difficult to accurately measure. However, people have done several studies on the relationship between personality traits and birth dates.
 
 I will leave this part to Linda Rodriguez McRobbie, who wrote an in-depth article called "[How Are Horoscopes Still a Thing?](https://www.smithsonianmag.com/history/how-are-horoscopes-still-thing-180957701/)"
@@ -225,7 +225,8 @@ There are a lot of additional biases and psychological effects to consider. Appe
 
 Ultimately, we need to keep in mind that we are fallible and that we may be acting wrong. The examples that I gave had some relation to astrology, but these biases are present everywhere around us, and it is always useful to keep them in mind despite the subject of analysis.
 
-### Summary ###
+### Summary
+
 The astrological subject is divided across many practices. Several civilizations have their methods of establishing the relationship between humans and the cosmos. These methods are not in agreement with one another, often yielding completely different answers to the same question. This mutual disagreement is an important point to consider when assessing the validity of an astrological claim.
 
 Further, at the bottom of every prediction, of every sign, of every description, is an egocentric and arbitrary view of the universe. We have personalized the stars, the planets, and the moons to our own needs. We gave them human attributes, and we take from them human influences on our daily lives. By happenstance, we got the signs and the names of the planets which we have today, but they could have been entirely different. This is also a crucial point because it means that all of the attributes from the 12 signs we know today are based on nothing but an arbitrary definition. Further, the traits of the planets are also based on arbitrary definitions, often giving quite a different image than what the planet is actually like.
@@ -234,7 +235,8 @@ Science is irreconcilable with the claims of astrology. There is an inherent iss
 
 Many different studies have been done dismissing astrological claims. It is also important to note the difficulty in conducting any study whatsoever in astrology due to the sheer amount of biases that readers may have. Whether or not the astrologer is saying something true, the person reading that message is also guilty of carrying many biases that might influence the overall idea and perception of astrology. The confirmation bias, the Forer effect, apophenia, and others are all very present in any astrological discussion.
 
-### Closing Thoughts ###
+### Closing Thoughts
+
 Why have I said all of this?
 
 Because, as I wrote [before](https://capm96.github.io/blog/parece/), I am a proponent of reason. I sincerely believe that the only ailment to most of the problems we have in our world today comes from the pursuit and application of truth. I believe in using reasoning to determine what is bad and using reasoning to determine what is good.
@@ -269,39 +271,27 @@ Human beings are incredible creatures, the planets are incomprehensible objects,
 
 <br> </br>
 
-### Sources ###
+### Footnotes and sources
 
-[1] [Number of people who believe in astrology](https://news.gallup.com/poll/19558/paranormal-beliefs-come-supernaturally-some.aspx)
+[^1]: [Number of people who believe in astrology](https://news.gallup.com/poll/19558/paranormal-beliefs-come-supernaturally-some.aspx)
 
-[2] The definition of "planets" is one fundamental inconsistency when it comes to astrology as a whole.
+[^2]: The definition of "planets" is one fundamental inconsistency when it comes to astrology as a whole. There is no agreement exactly on what is meant by "planets". For instance, Vedic astrology considers the following to be planets: The Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn and Rahu-Ketu, the two nodes of the Moon. On the other hand, Western astrology does not consider Rahu-Ketu and some other planets, while considering Uranus, Neptune, and Pluto to be planets. This is a very important point. How can it be that some planets represent an influence, and others do not? It seems impossible that both can be true at the same time. There is also one additional problem that is worth considering. Notice that none of the other planet's moons are mentioned. There are in fact, many other moons out there. Jupiter alone has 79 moons! [^10] Jupiter also has the biggest moon in the entire solar system, an object called Ganymede. Ganymede is bigger than Mercury, a planet, which is always relevant in astrology. How come we are leaving out something bigger than Mercury out of the picture? The answer is clearer once we understand that none of these moons were visible at the time in which astrology was being created. And once we finally did find out about all these objects, it might have seemed too cumbersome to include them all in our astrological charts. It is odd, however, that they are not included. If the planets demonstrate an equal influence on our lives, that means that there is no regard for how far away, or how big, a planet is. Jupiter, for instance, is a lot larger and a lot farther than Venus, but we seek to understand their influences on us with equal attention. Then, how come we are leaving out all these moons? What about all the solar system objects – the asteroids and comets? What about stars outside our solar system? If distance and size do not matter, we should be able to include all these other celestial objects in our astrological understanding.
 
-There is no agreement exactly on what is meant by "planets". For instance, Vedic astrology considers the following to be planets: The Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn and Rahu-Ketu, the two nodes of the Moon. On the other hand, Western astrology does not consider Rahu-Ketu and some other planets, while considering Uranus, Neptune, and Pluto to be planets.
+[^3]: [Different types of astrology](https://en.wikipedia.org/wiki/List_of_astrological_traditions,_types,_and_systems)
 
-This is a very important point. How can it be that some planets represent an influence, and others do not? It seems impossible that both can be true at the same time.
+[^4]: [Differences between Western and Indian astrology](https://vedicfeed.com/differences-between-vedic-astrology-and-western-astrology/)
 
-There is also one additional problem that is worth considering. Notice that none of the other planet's moons are mentioned. There are in fact, many other moons out there. Jupiter alone has 79 moons! **[10]**
+[^5]: [More information on what the ecliptic is](https://earthsky.org/space/what-is-the-ecliptic)
 
-Jupiter also has the biggest moon in the entire solar system, an object called Ganymede. Ganymede is bigger than Mercury, a planet, which is always relevant in astrology. How come we are leaving out something bigger than Mercury out of the picture?
+[^6]: [Constellations of the ecliptic](https://www.youtube.com/watch?v=eeQwYrfmvoQ) - (I was confused when reading about this at first. This visual might help.)
 
-The answer is clearer once we understand that none of these moons were visible at the time in which astrology was being created. And once we finally did find out about all these objects, it might have seemed too cumbersome to include them all in our astrological charts.
+[^7]: There is in fact, Ophiuchus, a 13th constellation. As I understand it, Astrologers ignored Ophiuchus for simplicity. Since at the time of the ancient Babylonians we already had a 12-month calendar, it would be much easier to divide the ecliptic into 12 equal parts. Dividing by 13 makes for some confusing math… The sun passes in front of the constellation Ophiuchus between around the 30th of November and the 18th of December. If you were born under that time, you were born against the constellation of Ophiuchus, even though your sign is something else.
 
-It is odd, however, that they are not included. If the planets demonstrate an equal influence on our lives, that means that there is no regard for how far away, or how big, a planet is. Jupiter, for instance, is a lot larger and a lot farther than Venus, but we seek to understand their influences on us with equal attention. Then, how come we are leaving out all these moons? What about all the solar system objects – the asteroids and comets? What about stars outside our solar system? If distance and size do not matter, we should be able to include all these other celestial objects in our astrological understanding.
+[^8]: *Babylonian Star-lore by Gavin White, Solaria Pubs, 2008, page 175*
 
-[3] [Different types of astrology](https://en.wikipedia.org/wiki/List_of_astrological_traditions,_types,_and_systems)
+[^9]: [More on Venus](https://www.youtube.com/watch?v=ZFUgy3crCYY)
 
-[4] [Differences between Western and Indian astrology](https://vedicfeed.com/differences-between-vedic-astrology-and-western-astrology/)
-
-[5] [More information on what the ecliptic is](https://earthsky.org/space/what-is-the-ecliptic)
-
-[6] [Constellations of the ecliptic](https://www.youtube.com/watch?v=eeQwYrfmvoQ) - (I was confused when reading about this at first. This visual might help.)
-
-[7] There is in fact, Ophiuchus, a 13th constellation. As I understand it, Astrologers ignored Ophiuchus for simplicity. Since at the time of the ancient Babylonians we already had a 12-month calendar, it would be much easier to divide the ecliptic into 12 equal parts. Dividing by 13 makes for some confusing math… The sun passes in front of the constellation Ophiuchus between around the 30th of November and the 18th of December. If you were born under that time, you were born against the constellation of Ophiuchus, even though your sign is something else.
-
-[8] *Babylonian Star-lore by Gavin White, Solaria Pubs, 2008, page 175*
-
-[9] [More on Venus](https://www.youtube.com/watch?v=ZFUgy3crCYY)
-
-[10] [How many moons Jupiter has](https://en.wikipedia.org/wiki/Moons_of_Jupiter)
+[^10]: [How many moons Jupiter has](https://en.wikipedia.org/wiki/Moons_of_Jupiter)
 
 [Figure 1.1](https://en.wikipedia.org/wiki/Ecliptic)
 

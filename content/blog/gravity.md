@@ -83,7 +83,7 @@ Everything has to exist in both space and time for us to be able to perceive it.
 Hermann Minkowski, one of the mathematicians during the time, once said:
 “*Henceforth space by itself, and time by itself, are doomed to fade away into mere shadows, and only a kind of union of the two will preserve an independent reality*".
 
-Minkowski also helped us visualize this relationship between space and time with the Minkowski diagram. We will not go into too much detail on this, but you might see how this to visualize oddities about time later. **[1]**
+Minkowski also helped us visualize this relationship between space and time with the Minkowski diagram. We will not go into too much detail on this, but you might see how this to visualize oddities about time later. [^1]:
 
 ### 2. The basics of Einstein’s Special Relativity theory, and why spacetime behaves counter-intuitively.
 
@@ -103,7 +103,7 @@ Nobody. All motion is relative.
 
 This is where the name Special Relativity comes in. This theory was an expansion of Newtonian physics to dispel the idea of absolute space and time, and propose that there are many faces to what we call spacetime, and that people can view it differently while being simultaneously right -- something impossible in the Newtonian framework.
 
-This idea of relativity, however, is not entirely new. Galileo himself had already understood that motion was relative, but during his time Newton’s mechanics of an absolute space and time still reigned, and his relativity did not make much headway. **[2]**
+This idea of relativity, however, is not entirely new. Galileo himself had already understood that motion was relative, but during his time Newton’s mechanics of an absolute space and time still reigned, and his relativity did not make much headway. [^2]:
 
 It was not until the late 19th century, however, that physicists and mathematicians would revisit Galilean’s relativity to dispel Newton’s absolute time and space. And the fundamental reason why they were able to do this is the following:
 
@@ -115,7 +115,7 @@ As we saw, motion is always relative – a car might be going at 0 km/h, 100 km/
 
 Light does not work that way. Light is always, unequivocally, regardless of the circumstances, traveling exactly at 299,792,458 meters per second. Always and infinitely, every single time we measured it, this exact speed comes out, no matter who is looking at it and under what circumstances they are looking at it. If you are going towards a flashlight's beam at 100,000,000 meters per second, the flashlight's beam would still appear to be moving towards you at the speed of light. This is counter-intuitive because as we just saw with the examples of the cars, velocities get added most of the time.
 
-This is such a fundamental property of the universe, in fact, that it rests as one of the two building blocks of Special Relativity. Without it, Einstein would have never figured any of this out. The other building block of Special Relativity is that the laws of physics are the same for everyone. **[3]**
+This is such a fundamental property of the universe, in fact, that it rests as one of the two building blocks of Special Relativity. Without it, Einstein would have never figured any of this out. The other building block of Special Relativity is that the laws of physics are the same for everyone. [^3]:
 
 And there we have it, the recipe and the ingredients we need for among the strangest things in the entire universe:
 
@@ -166,7 +166,7 @@ Notice, however, that we can add into our confusion by saying that from Alice's 
 
 The truth, however, is that Alice's time seemed to run slower from Bob's perspective, although both of them experienced reality normally. In other words, we could say that Alice was aging slower than Bob.
 
-Hendrik Lorentz, a Dutch physicist that was incredibly important in putting all of this together, derived a formula that tells us  exactly by what factor time will appear to run slower for someone. This formula yields something called the Lorentz factor. **[4]**
+Hendrik Lorentz, a Dutch physicist that was incredibly important in putting all of this together, derived a formula that tells us  exactly by what factor time will appear to run slower for someone. This formula yields something called the Lorentz factor. [^4]:
 
 In our case, if for instance, Alice was moving so fast that when we ran our Lorentz equation, we got a factor of 2, that would mean that for two years that Bob experiences, Alice will only experience one. Notice, however, that both of them would live these years normally, as if nothing strange was going on. It is a peculiar concept to visualize, but that is what happens when spacetime itself awakens.
 
@@ -174,7 +174,7 @@ The name of these relative differences in time is called Time Dilation, and it i
 
 It is not, however, the only weird thing about Special Relativity.
 
-We will not dive deep into this, but Special Relativity also states moving observers not only have their clocks slow down, but they also appear to be contracted in length relative to someone observing them. That would mean that if someone was watching you move really fast, you would not only appear to be experiencing time differently, but you would also appear to be much shorter in length than you are.  **[5]**
+We will not dive deep into this, but Special Relativity also states moving observers not only have their clocks slow down, but they also appear to be contracted in length relative to someone observing them. That would mean that if someone was watching you move really fast, you would not only appear to be experiencing time differently, but you would also appear to be much shorter in length than you are.  [^5]:
 
 ### 3. How the Global Positioning System (“GPS”) works.
 
@@ -258,51 +258,21 @@ When you open the GPS on your phone and it guides you to where you want to go, y
 
 I cannot think of anything else to say but thank you.
 
-### Footnotes:
+<br> </br>
 
-**[1]**
-The Minkowski diagram helps illustrate spacetime continuum in a cartesian plane. Much the same way you would use a 2D plane to describe the position of anything in a 2D environment, the Minkowski diagram helps illustrate the position of anything in the real world. It does this by plotting time in one axis, and space in the other axis.
+### Footnotes and sources:
 
-<img src="/images/blog/gravity/MDiagram1.jpg" alt="Minkowskidiagram"
-	title="Minkowskidiagram" class="responsive" />
+[^1]: The Minkowski diagram helps illustrate spacetime continuum in a cartesian plane. Much the same way you would use a 2D plane to describe the position of anything in a 2D environment, the Minkowski diagram helps illustrate the position of anything in the real world. It does this by plotting time in one axis, and space in the other axis.  Keep in mind that this is a 2D visualization of something that is in reality 4D (we have the three dimensions of space we are familiar with from everyday life, plus the one of time). However, it helps illustrate the union between space and time into the so-called Spacetime continuum.
 
-Keep in mind that this is a 2D visualization of something that is in reality 4D (we have the three dimensions of space we are familiar with from everyday life, plus the one of time). However, it helps illustrate the union between space and time into the so-called Spacetime continuum.
+[^2]: The fundamental notion of Galilean relativity is that the laws of physics are the same for all inertial (non-accelerating) observers. However, as we shall see, the Galilean transformations, as opposed to the Lorentz transformations, took into consideration an absolute time and absolute space. Further, Galileo was also not aware of the fact that the speed of light is a universal constant. The experiments which allowed us to understand the speed of light in the 19th century, combined with the brilliant mind of Einstein, is what allowed us to progress from Galilean relativity to Special relativity. However, notice that the realizations of Galileo's observations are important to us even today. If you are on a plane, flying at constant speed, and you drop your phone on the ground, you will notice that the phone falls in a straight line, even though the plane is moving at hundreds of kilometers per hour. This happens because the laws of physics are the same for objects in motion, and thankfully, everything within that airplane is also moving at the exact speed the plane is moving. This relativity is also the same reason why we don't notice that we are flying through space at 1,600 km/h.
 
-**[2]**
-The fundamental notion of Galilean relativity is that the laws of physics are the same for all inertial (non-accelerating) observers. However, as we shall see, the Galilean transformations, as opposed to the Lorentz transformations, took into consideration an absolute time and absolute space. Further, Galileo was also not aware of the fact that the speed of light is a universal constant. The experiments which allowed us to understand the speed of light in the 19th century, combined with the brilliant mind of Einstein, is what allowed us to progress from Galilean relativity to Special relativity.
+[^3]: The technical terminology for the two postulates of Special Relativity are: A) The laws of physics are the same for all inertial reference frames (where inertial means non-accelerating, and reference frames means observers) B) That the speed of light traveling through the vacuum of spacetime is constant.
 
-However, notice that the realizations of Galileo's observations are important to us even today. If you are on a plane, flying at constant speed, and you drop your phone on the ground, you will notice that the phone falls in a straight line, even though the plane is moving at hundreds of kilometers per hour. This happens because the laws of physics are the same for objects in motion, and thankfully, everything within that airplane is also moving at the exact speed the plane is moving. This relativity is also the same reason why we don't notice that we are flying through space at 1,600 km/h.
+[^4]: The Lorentz factor equation is = 1/√(1-v<sup>2</sup>/c<sup>2</sup>) where v is the velocity of the moving object, and c is the speed of light. For instance, an object moving at half the speed of light would yield a Lorentz factor of 1.1550, meaning that time would run 1.1550 times slower for the moving observer relative to the stationary one. This is an interesting discovery because it shows that even for extremely high speeds (half the speed of light) the time dilation appears to be rather small. Things have in fact to be moving extremely fast to have some sort of hyperbolic time dilation effect.
 
-**[3]**
-The technical terminology for the two postulates of Special Relativity are:
-
-A) The laws of physics are the same for all inertial reference frames (where inertial means non-accelerating, and reference frames means observers)
-
-B) That the speed of light traveling through the vacuum of spacetime is constant.
-
-**[4]**
-The Lorentz factor equation is = 1/√(1-v<sup>2</sup>/c<sup>2</sup>) where v is the velocity of the moving object, and c is the speed of light.
-For instance, an object moving at half the speed of light would yield a Lorentz factor of 1.1550, meaning that time would run 1.1550 times slower for the moving observer relative to the stationary one.
-
-This is an interesting discovery because it shows that even for extremely high speeds (half the speed of light) the time dilation appears to be rather small. Things have in fact to be moving extremely fast to have some sort of hyperbolic time dilation effect.
-
-
-**[5]**
-The Lorentz transformations for time dilation and length contraction can be better visualized through the Minkowski diagram.
-
-<img src="/images/blog/gravity/MDiagram2.jpg" alt="Minkowskidiagram2"
-	title="Minkowskidiagram2" class="responsive" />
-
-As we saw, the speed of light is a universal constant. With that being said, we can say that this diagram's space axis represents an interval of 300 million meters between every two ticks (the speed of light through one second) so that the speed of light appears to have a linear slope.
-
-Now, as we said, spacetime itself must change to preserve this constant speed of light, so you can imagine that if you have any two objects within the worldline (inside the lines of the speed of light, since nothing can travel faster than the speed of light, it would be impossible to have an object to the other side of the lines) the graph will appear to shrink and stretch in a weird way to keep the speed of light constant but make the time relative between the observers.
+[^5]: The Lorentz transformations for time dilation and length contraction can be better visualized through the Minkowski diagram. As we saw, the speed of light is a universal constant. With that being said, we can say that this diagram's space axis represents an interval of 300 million meters between every two ticks (the speed of light through one second) so that the speed of light appears to have a linear slope. Now, as we said, spacetime itself must change to preserve this constant speed of light, so you can imagine that if you have any two objects within the worldline (inside the lines of the speed of light, since nothing can travel faster than the speed of light, it would be impossible to have an object to the other side of the lines) the graph will appear to shrink and stretch in a weird way to keep the speed of light constant but make the time relative between the observers.
 
 [Minute Physics](https://www.youtube.com/watch?v=Rh0pYtQG5wI) has some excellent visualizations on this if you are interested.
-
-<br>
-</br>
-
-### Sources:
 
 [Special Theory of Relativity: Clocks and Rods](https://www.pitt.edu/~jdnorton/teaching/HPS_0410/chapters/Special_relativity_clocks_rods/index.html)
 
@@ -319,3 +289,9 @@ Now, as we said, spacetime itself must change to preserve this constant speed of
 [Figures 1.2 & 1.3](http://www.emc2-explained.info/The-Light-Clock/#.XPw7qIhKhEZ)
 
 [Figures 1.4 & 1.5](https://gisgeography.com/trilateration-triangulation-gps/)
+
+<!-- <img src="/images/blog/gravity/MDiagram1.jpg" alt="Minkowskidiagram"
+	title="Minkowskidiagram" class="responsive" /> 
+
+<img src="/images/blog/gravity/MDiagram2.jpg" alt="Minkowskidiagram2"
+	title="Minkowskidiagram2" class="responsive" />  -->

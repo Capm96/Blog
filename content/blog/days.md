@@ -93,8 +93,8 @@ As fate would have it, Gavrilo Princip, one of the six initial terrorists, was w
 
 Princip fired two shots which killed the Archduke and his wife, and the rest is history.
 
-<img src="https://drive.google.com/uc?export=view&id=1cpF9YHNReNE-HZiZwJKGTuk9xjo3r92P" alt="path"
-	title="Path" class="responsive" />
+<img src="/images/blog/coincidence/rua.jpg" alt="rua"
+	title="rua" class="responsive" />
 (Figure 1.2)
 
 ### What ifs
@@ -157,8 +157,7 @@ In that case, then, if there are an infinite number of universes, that June 28th
 
 I wonder if I am writing this exact same post there.
 
-<br>
-</br>
+<br> </br>
 
 ### Sources:
 
