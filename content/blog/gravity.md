@@ -65,7 +65,8 @@ In the picture below, Earth (the bowling ball) curves space (your mattress) and 
 
 <img src="/images/blog/gravity/curvature.jpg" alt="curves"
 	title="Einstein gravity" class="responsive" />
-(Figure 1.1)
+
+* Figure 1.1 - [The curvature of spacetime illustrated](https://www.sciencenews.org/article/einsteins-genius-changed-sciences-perception-gravity) 
 
 This is a fascinating realization, and although abstract at the moment, highlights the genius realization of Einstein - that space itself is malleable, and that what we think of gravity is fundamentally curvatures along this malleable fabric.
 
@@ -138,7 +139,7 @@ Both brothers are carrying with them an interesting clock, a light-clock. This c
 <img src="/images/blog/gravity/lightclock.gif" alt="clock1"
 	title="clock1" class="responsive" style="width:300px" />
 
-(Figure 1.2)
+* Figure 1.2 - [Light clock](http://www.emc2-explained.info/The-Light-Clock/#.XPw7qIhKhEZ)
 
 Now, consider that Bob is standing stationary in the waiting area, facing the trains, while Alice is inside the train, moving away from the station at a constant speed. Both of them have their clocks with them.
 
@@ -148,8 +149,8 @@ Alice is moving, and so is her clock, so the beam of light has to travel a large
 
 <img src="/images/blog/gravity/movingclock2.gif" alt="clock2"
 	title="clock2" class="responsive" />
-(Figure 1.3)
 
+* Figure 1.3 - [Moving light clock](http://www.emc2-explained.info/The-Light-Clock/#.XPw7qIhKhEZ)
 
 Now, the crucial and most fundamental part of all of this is that the speed of light is the exact same for Bob and Alice.
 And as you might recall **distance = speed * time**.
@@ -204,7 +205,8 @@ For example, if one satellite broadcasts its signals, it will look like this:
 
 <img src="/images/blog/gravity/sat1.jpg" alt="sat1"
 	title="sat1" class="responsive" />
-(Figure 1.4)
+
+* Figure 1.4 - [GPS illustration](https://gisgeography.com/trilateration-triangulation-gps/)
 
 Your phone receives the signal, but since it only got information from one satellite, it cannot know exactly where it is. This is because the signal that the phone receives only contains the location of the satellite, and how long the signal took to get from the satellite to your phone -- this means that the blue area you see are all the other possible locations your phone could be in.
 
@@ -212,7 +214,8 @@ If you keep repeating the process with more satellites, however, you can draw an
 
 <img src="/images/blog/gravity/sat2.jpg" alt="sat2"
 	title="sat2" class="responsive" />
-(Figure 1.5)
+
+* Figure 1.5 - [GPS illustration 2](https://gisgeography.com/trilateration-triangulation-gps/)
 
 In short, this is how your phone is able to tell you where you are on the planet.
 
@@ -258,9 +261,7 @@ When you open the GPS on your phone and it guides you to where you want to go, y
 
 I cannot think of anything else to say but thank you.
 
-<br> </br>
-
-### Footnotes and sources:
+### Footnotes
 
 [^1]: The Minkowski diagram helps illustrate spacetime continuum in a cartesian plane. Much the same way you would use a 2D plane to describe the position of anything in a 2D environment, the Minkowski diagram helps illustrate the position of anything in the real world. It does this by plotting time in one axis, and space in the other axis.  Keep in mind that this is a 2D visualization of something that is in reality 4D (we have the three dimensions of space we are familiar with from everyday life, plus the one of time). However, it helps illustrate the union between space and time into the so-called Spacetime continuum.
 
@@ -272,7 +273,7 @@ I cannot think of anything else to say but thank you.
 
 [^5]: The Lorentz transformations for time dilation and length contraction can be better visualized through the Minkowski diagram. As we saw, the speed of light is a universal constant. With that being said, we can say that this diagram's space axis represents an interval of 300 million meters between every two ticks (the speed of light through one second) so that the speed of light appears to have a linear slope. Now, as we said, spacetime itself must change to preserve this constant speed of light, so you can imagine that if you have any two objects within the worldline (inside the lines of the speed of light, since nothing can travel faster than the speed of light, it would be impossible to have an object to the other side of the lines) the graph will appear to shrink and stretch in a weird way to keep the speed of light constant but make the time relative between the observers.
 
-[Minute Physics](https://www.youtube.com/watch?v=Rh0pYtQG5wI) has some excellent visualizations on this if you are interested.
+<!-- [Minute Physics](https://www.youtube.com/watch?v=Rh0pYtQG5wI) has some excellent visualizations on this if you are interested.
 
 [Special Theory of Relativity: Clocks and Rods](https://www.pitt.edu/~jdnorton/teaching/HPS_0410/chapters/Special_relativity_clocks_rods/index.html)
 
@@ -288,7 +289,7 @@ I cannot think of anything else to say but thank you.
 
 [Figures 1.2 & 1.3](http://www.emc2-explained.info/The-Light-Clock/#.XPw7qIhKhEZ)
 
-[Figures 1.4 & 1.5](https://gisgeography.com/trilateration-triangulation-gps/)
+[Figures 1.4 & 1.5](https://gisgeography.com/trilateration-triangulation-gps/) -->
 
 <!-- <img src="/images/blog/gravity/MDiagram1.jpg" alt="Minkowskidiagram"
 	title="Minkowskidiagram" class="responsive" /> 

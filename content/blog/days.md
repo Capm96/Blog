@@ -41,7 +41,8 @@ Consider the arguments that if it were not for the First, maybe the Second World
 
 <img src="/images/blog/coincidence/balkans.jpg" alt="Balkans"
 	title="Balkans" class="responsive" />
-(Figure 1.1)
+
+* Figure 1.1 - [Map of the Balkan region in the early 20th century](https://alphahistory.com/worldwar1/balkans/)
 
 The Balkans, pictured in the above, is a small region in Southeastern Europe with a long and rich history. The geographical location and the diverse ethnicities (Slavic, Greek, Turkish, etc) of the region made it a melting pot of cultural exchange and mercantile activities for centuries.
 
@@ -95,7 +96,8 @@ Princip fired two shots which killed the Archduke and his wife, and the rest is 
 
 <img src="/images/blog/coincidence/rua.jpg" alt="rua"
 	title="rua" class="responsive" />
-(Figure 1.2)
+
+* Figure 1.2 -  [Travel timeline for the Archduke](https://en.wikipedia.org/wiki/Assassination_of_Archduke_Franz_Ferdinand)
 
 ### What ifs
 
@@ -157,18 +159,16 @@ In that case, then, if there are an infinite number of universes, that June 28th
 
 I wonder if I am writing this exact same post there.
 
-<br> </br>
-
-### Sources:
+<!-- ### Sources:
 
 [How A Wrong Turn Started World War 1]( https://www.history.com/news/how-a-wrong-turn-started-world-war-i)
 
-[The Balkans + Figure 1.1]( https://alphahistory.com/worldwar1/balkans/)
+[The Balkans]( https://alphahistory.com/worldwar1/balkans/)
 
 [The Black Hand]( https://en.wikipedia.org/wiki/Black_Hand_(Serbia))
 
-[Assassination of Archduke Franz Ferdinand + Figure 1.2]( https://en.wikipedia.org/wiki/Assassination_of_Archduke_Franz_Ferdinand)
+[Assassination of Archduke Franz Ferdinand]( https://en.wikipedia.org/wiki/Assassination_of_Archduke_Franz_Ferdinand)
 
 [Balkan Wars]( https://en.wikipedia.org/wiki/Balkan_Wars)
 
-[Lottery odds]( https://www.wkyc.com/article/news/local/verify/verify-theres-only-one-way-to-increase-your-lottery-odds-and-your-chances-are-still-basically-zero/507-605708625)
+[Lottery odds]( https://www.wkyc.com/article/news/local/verify/verify-theres-only-one-way-to-increase-your-lottery-odds-and-your-chances-are-still-basically-zero/507-605708625) -->

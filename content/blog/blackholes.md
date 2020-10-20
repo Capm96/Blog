@@ -91,7 +91,7 @@ Eventually, this process reaches a point of such absurd implications that the un
 <img src="/images/blog/blackholes/404.jpg" alt="not"
 	title="Not Found" class="responsive" />
 
-(Figure 1.1)
+* Figure 1.1 - [NASA's 404 message](https://www.reddit.com/r/space/comments/akeuhv/nasas_404_error_message/)
 
 ### Let there be dark 
 
@@ -114,7 +114,7 @@ The point at which the gravity becomes so strong that light cannot escape is cal
 <img src="/images/blog/blackholes/eventhorizon.jpg" alt="eventhorizon"
 	title="eventhorizon" class="responsive" />
 
-(Figure 1.2)
+* Figure 1.2 - [Event horizon artist's impression](https://phys.org/news/2019-01-x-ray-pulse-event-horizon-black.html)
 
 As a side note, this bright stuff around the black hole is an accretion disk. These are the remains of stars and other cosmic objects that got too close to the black hole and are now being sucked in. Large clouds of matter can surround a black hole, and they are pulled in very fiercely, which heats them substantially, making them look so bright.
 
@@ -173,7 +173,7 @@ To that extent, as a person would be falling in (feet first) their feet would be
 <img src="/images/blog/blackholes/spaghetti.jpg" alt="spaghetti"
 	title="spaghetti" class="responsive" />
 
-(Figure 1.3)
+* Figure 1.3 - [Illustration of Spaghettification](https://www.npr.org/2013/12/27/256897343/stretch-or-splat-how-a-black-hole-kills-you-matters-a-lot?t=1601497420860)
 
 ### Theories about what lies inside
 
@@ -206,7 +206,7 @@ Luckily, visible light (i.e., the stuff that we see in everyday life) is not the
 <img src="/images/blog/blackholes/em.jpg" alt="em"
 	title="em" class="responsive" />
 
-(Figure 1.4)
+* Figure 1.4 - [Electromagnetic spectrum](https://www.google.com/search?q=electromagnetic+spectrum&sxsrf=ALeKk03sUAJ04EFmESOh3OFYIJA8pERMMA:1583083392461&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi8noea5fnnAhWMh1wKHcV0B_IQ_AUoAXoECBAQAw&biw=1280&bih=616#imgrc=fF5lcgJ2kcyLlM)
 
 An x-ray, for instance, works because it focuses on different wavelengths than the ones that your skin emits light in. This means that it can essentially bypass the light that your skin emits, and focus only on the light that your insides emit.
 
@@ -227,7 +227,7 @@ Gravitational waves are similar in concept to the waves in the lake. Except that
 <img src="/images/blog/blackholes/waves.gif" alt="waves"
 	title="waves" class="responsive" />
 
-(Figure 1.5)
+* Figure 1.5 - [Gravitational waves illustration](https://giphy.com/explore/gravitational-waves)
 
 In another extraordinary feat of engineering, some brilliant people were able to detect such gravitational waves. The instrument they used for this is called LIGO (Laser Interferometer Gravitational-Wave Observatory). The first observation was announced in 2016.
 
@@ -251,11 +251,9 @@ Somehow, for some reason, billions of years ago, atoms got together in a beautif
 
 In the poem that is reality, black holes seem to be the full stops between the sentences that describe the laws of the cosmos. Like full stops, black holes are neutral -- neither good nor evil – they simply delineate the limits of the story itself. They represent endings. They represent beginnings. Perhaps our duty is to keep studying this poem, a line at a time, and always get a little bit closer at lifting the veil of the mystery of nature itself.
 
-<br> </br>
+### Footnotes
 
-### Footnotes and sources
-
-[^1]: For reasons which we yet do not understand, there was some left-over matter during this period. In theory, there should not have been any matter at all (the universe should be "empty"). During the Big Bang, the extreme conditions of the early universe caused matter and anti-matter particles to come in and out of existence, annihilating each other. For some unknown reason, matter outweighed anti-matter by a very tiny fraction (something like one billion and one particles of matter for one billion particles of anti-matter). This excess matter would eventually become you, the moon, and the stars. Indeed, every single atom in our bodies can trace back its ancestry to the Big Bang.   -->
+[^1]: For reasons which we yet do not understand, there was some left-over matter during this period. In theory, there should not have been any matter at all (the universe should be "empty"). During the Big Bang, the extreme conditions of the early universe caused matter and anti-matter particles to come in and out of existence, annihilating each other. For some unknown reason, matter outweighed anti-matter by a very tiny fraction (something like one billion and one particles of matter for one billion particles of anti-matter). This excess matter would eventually become you, the moon, and the stars. Indeed, every single atom in our bodies can trace back its ancestry to the Big Bang.
 
 [^2]: Nuclear fusion keeps mixing elements up until it reaches Iron. The Iron atoms are not able to be fused into anything new, and so the nuclear fusion process comes to a halt. During the Big Bang, only a few elements were created – the simpler ones. Things like Hydrogen and Helium. Then, during the lifetime of stars, heavier elements (up until Iron) were created. Finally, a lot of the more exotic and even heavier elements are only created with super-duper crazy conditions, like the massive explosions that take place in a star’s final days – a supernova. There, elements like copper, mercury, gold, iodine, and lead are created.
 
@@ -264,13 +262,3 @@ In the poem that is reality, black holes seem to be the full stops between the s
 [^4]: This threshold is called the Schwarzschild Radius, after the physicist Karl Schwarzschild, who came up with this solution while out on the battlefield during the First World War. All we need to do to find out this radius is plug an object's mass into a formula, and boom. Anything that has mass could become a black hole – all it takes is compressing it into an area with a small enough radius. Earth could become a black hole too! All we would have to do is compress every single atom that is on Earth into a space that has a radius no larger than 9 millimeters.
 
 [^5]: The moon only shows one side to us because its rotation period (how long it takes to go around its axis) is equal to its orbit period (how long it takes to go around Earth). This is a result of tidal locking between the Earth and the moon, and a not so unusual phenomenon in our solar system. Pluto and its moon, Charon, are also tidally locked.
-
-[Figure 1.1](https://www.google.com/search?q=error+404+astronomy&tbm=isch&ved=2ahUKEwidpruh7-rnAhVVdRQKHSbfAQgQ2-cCegQIABAA&oq=error+404+astronomy&gs_l=img.3...31930.32790..32870...0.0..0.65.609.10......0....1..gws-wiz-img.......0i67j0j0i8i30.lqLZyoXuPig&ei=yBxUXp2iENXqUaa-h0A&bih=624&biw=1263&hl=en#imgrc=8QN6flhN60Y5dM)
-
-[Figure 1.2](https://www.google.com/search?q=event+horizon+in+black+holes&tbm=isch&sxsrf=ALeKk01MPZ0ZQskJGG-c0hUs-hj4rDHsEA:1582571091923&source=lnms&sa=X&ved=0ahUKEwju6o_e8OrnAhU2REEAHfrKBaMQ_AUIDCgD&biw=1280&bih=616&dpr=1.5#imgrc=quMnb21HyyYq7M)
-
-[Figure 1.3](https://www.npr.org/2013/12/27/256897343/stretch-or-splat-how-a-black-hole-kills-you-matters-a-lot)
-
-[Figure 1.4](https://www.google.com/search?q=electromagnetic+spectrum&sxsrf=ALeKk03sUAJ04EFmESOh3OFYIJA8pERMMA:1583083392461&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi8noea5fnnAhWMh1wKHcV0B_IQ_AUoAXoECBAQAw&biw=1280&bih=616#imgrc=fF5lcgJ2kcyLlM)
-
-[Figure 1.5](https://giphy.com/explore/gravitational-waves)

@@ -70,7 +70,7 @@ There is something called the ecliptic which is very important in understanding 
 <img src="/images/blog/astrology/ecliptic.gif" alt="Ecliptic"
 	title="ecliptic" class="responsive" />
 
-  (Figure 1.1)
+  * Figure 1.1 - [The ecliptic](https://en.wikipedia.org/wiki/Ecliptic)
 
 If we look at this path throughout the year, we will notice the sun being in front of different constellations at different times.
 
@@ -85,7 +85,7 @@ There are 88 constellations in total, but only 12 of them that are in that path 
 <img src="/images/blog/astrology/constellations.jpg" alt="constellations"
 	title="constellations" class="responsive" />
 
-  (Figure 1.2)
+  * Figure 1.2 - [The constellations](https://astrologybay.com/)
 
 This is where Western astrology gets their signs from. It is important to note, however, that Western astrology does not deal with the constellations, but with the signs. This is for simplicity.
 
@@ -148,7 +148,7 @@ As you might know, the Earth is a sphere and we are a little tilted, which is wh
 <img src="/images/blog/astrology/axis.jpg" alt="axis"
 	title="axis" class="responsive" />
 
-  (Figure 1.3)
+  * Figure 1.3 - [The axis of the earth](https://grist.files.wordpress.com/2016/04/earth-axis-tilt.jpg?w=1200&h=675&crop=1)
 
 Consider that stick to be the Earth's axis. It is by measuring that, versus an imaginary stick which is upright, that we get the tilt of the Earth (23.5°).
 
@@ -159,7 +159,7 @@ But Polaris will not always be the North Star. That is because the Earth's axis 
 <img src="/images/blog/astrology/precession.gif" alt="precession"
 	title="precession" class="responsive" style="width:300px" />
 
-  (Figure 1.4)
+  * Figure 1.4 - [The precession of the Earth illustrated](https://calendars.wikia.org/wiki/File:Axial_precession.gif)
 
 2,000 years ago, when we were coming up with those names for the constellations, our axis was in a different place. Because of that, for example, if you were to walk up to the North Pole and look right above, you would not see Polaris the way we do today.
 
@@ -253,8 +253,8 @@ I will finish by sharing one image: The Hubble Legacy Field.
 
 <img src="/images/blog/astrology/legacy.png" alt="legacy"
 	title="legacy" class="responsive" />
-
-(Figure 1.5)
+	
+* Figure 1.5 - [Hubble legacy field](https://hubblesite.org/image/4492/news)
 
 I cannot post the image on its original size because it is quite heavy – almost as heavy as an entire movie. This large size is accounted by the fact that the original image contains a lot of information.
 
@@ -269,9 +269,7 @@ This is the truth. And it is also one of the reasons that make me disappointed a
 
 Human beings are incredible creatures, the planets are incomprehensible objects, and the cosmos is a place more beautiful than one could ever describe – why diminish these things into patterns, pre-defined movements, in security? There is infinite beauty in the chaos of life and the mystery of the universe.
 
-<br> </br>
-
-### Footnotes and sources
+### Footnotes
 
 [^1]: [Number of people who believe in astrology](https://news.gallup.com/poll/19558/paranormal-beliefs-come-supernaturally-some.aspx)
 
@@ -292,13 +290,3 @@ Human beings are incredible creatures, the planets are incomprehensible objects,
 [^9]: [More on Venus](https://www.youtube.com/watch?v=ZFUgy3crCYY)
 
 [^10]: [How many moons Jupiter has](https://en.wikipedia.org/wiki/Moons_of_Jupiter)
-
-[Figure 1.1](https://en.wikipedia.org/wiki/Ecliptic)
-
-[Figure 1.2](https://astrologybay.com/compatible-astrological-signs-compatibility)
-
-[Figure 1.3](https://grist.files.wordpress.com/2016/04/earth-axis-tilt.jpg?w=1200&h=675&crop=1)
-
-[Figure 1.4](https://calendars.wikia.org/wiki/File:Axial_precession.gif)
-
-[Figure 1.5](https://hubblesite.org/image/4492/news)
