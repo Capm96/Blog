@@ -10,15 +10,20 @@ Tags: one-page, single-page, portfolio, custom-colors, post-formats, responsive,
 @import url("https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700");
 @import url("https://fonts.googleapis.com/css?family=Montserrat:400,700|Open+Sans:300,400,600");
 
+:root{
+  --main-font-color: #818c96;
+  --main-header-color: #afbac4;
+}
+
 html {
-  background-color: white;
-  color: white;
+  background-color: #353b43;
+  color: var(--main-font-color);
 }
 
 body {
-  background-color: white;
-  font-family: "Anaheim", sans-serif;
-  color:black;
+  background-color: #353b43;
+  font-family: "Quattrocento Sans", sans-serif;
+  color: var(--main-font-color);
   -webkit-font-smoothing: antialiased;
 }
 
@@ -34,14 +39,13 @@ body {
 
 ul{
     list-style: none;
-    font-family: "Anaheim", sans-serif;
-    color:black;
-    -webkit-font-smoothing: antialiased;
+    font-family: "Quattrocento Sans", sans-serif;
+    color: var(--main-font-color);
 }
 
 li {
-  font-family: "Anaheim", sans-serif;
-  color:black;
+  font-family: "Quattrocento Sans", sans-serif;
+  color: var(--main-font-color);
   padding-bottom: 10px;
 }
 
@@ -49,7 +53,7 @@ h1 {
   font-size: 60px;
   font-weight: 200;
   font-family: "Quattrocento Sans", sans-serif;
-  color: #afbac4;
+  color: var(--main-header-color);
 }
 h2,
 h3,
@@ -58,13 +62,13 @@ h5 {
   font-size: 20px;
   font-weight: 200;
   font-family: "Quattrocento Sans", sans-serif;
-  color: #afbac4;
+  color: var(--main-header-color);
   }
 
 h6 {
   font-weight: 200;
   font-family: "Quattrocento Sans", sans-serif;
-  color: #afbac4;
+  color: var(--main-header-color);
 }
 
 /* Modify blog word formatting here */
@@ -105,7 +109,7 @@ figure {
 }
 
 a {
-  color: #fff;
+  color: lightgray;
   transition: all .3s ease-in 0s;
 }
 

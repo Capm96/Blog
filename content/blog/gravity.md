@@ -84,7 +84,7 @@ Everything has to exist in both space and time for us to be able to perceive it.
 Hermann Minkowski, one of the mathematicians during the time, once said:
 “*Henceforth space by itself, and time by itself, are doomed to fade away into mere shadows, and only a kind of union of the two will preserve an independent reality*".
 
-Minkowski also helped us visualize this relationship between space and time with the Minkowski diagram. We will not go into too much detail on this, but you might see how this to visualize oddities about time later. [^1]:
+Minkowski also helped us visualize this relationship between space and time with the Minkowski diagram. We will not go into too much detail on this, but you might see how this to visualize oddities about time later. [^1]
 
 ### 2. The basics of Einstein’s Special Relativity theory, and why spacetime behaves counter-intuitively.
 
@@ -104,7 +104,7 @@ Nobody. All motion is relative.
 
 This is where the name Special Relativity comes in. This theory was an expansion of Newtonian physics to dispel the idea of absolute space and time, and propose that there are many faces to what we call spacetime, and that people can view it differently while being simultaneously right -- something impossible in the Newtonian framework.
 
-This idea of relativity, however, is not entirely new. Galileo himself had already understood that motion was relative, but during his time Newton’s mechanics of an absolute space and time still reigned, and his relativity did not make much headway. [^2]:
+This idea of relativity, however, is not entirely new. Galileo himself had already understood that motion was relative, but during his time Newton’s mechanics of an absolute space and time still reigned, and his relativity did not make much headway. [^2]
 
 It was not until the late 19th century, however, that physicists and mathematicians would revisit Galilean’s relativity to dispel Newton’s absolute time and space. And the fundamental reason why they were able to do this is the following:
 
@@ -116,7 +116,7 @@ As we saw, motion is always relative – a car might be going at 0 km/h, 100 km/
 
 Light does not work that way. Light is always, unequivocally, regardless of the circumstances, traveling exactly at 299,792,458 meters per second. Always and infinitely, every single time we measured it, this exact speed comes out, no matter who is looking at it and under what circumstances they are looking at it. If you are going towards a flashlight's beam at 100,000,000 meters per second, the flashlight's beam would still appear to be moving towards you at the speed of light. This is counter-intuitive because as we just saw with the examples of the cars, velocities get added most of the time.
 
-This is such a fundamental property of the universe, in fact, that it rests as one of the two building blocks of Special Relativity. Without it, Einstein would have never figured any of this out. The other building block of Special Relativity is that the laws of physics are the same for everyone. [^3]:
+This is such a fundamental property of the universe, in fact, that it rests as one of the two building blocks of Special Relativity. Without it, Einstein would have never figured any of this out. The other building block of Special Relativity is that the laws of physics are the same for everyone. [^3]
 
 And there we have it, the recipe and the ingredients we need for among the strangest things in the entire universe:
 
@@ -167,7 +167,7 @@ Notice, however, that we can add into our confusion by saying that from Alice's 
 
 The truth, however, is that Alice's time seemed to run slower from Bob's perspective, although both of them experienced reality normally. In other words, we could say that Alice was aging slower than Bob.
 
-Hendrik Lorentz, a Dutch physicist that was incredibly important in putting all of this together, derived a formula that tells us  exactly by what factor time will appear to run slower for someone. This formula yields something called the Lorentz factor. [^4]:
+Hendrik Lorentz, a Dutch physicist that was incredibly important in putting all of this together, derived a formula that tells us  exactly by what factor time will appear to run slower for someone. This formula yields something called the Lorentz factor. [^4]
 
 In our case, if for instance, Alice was moving so fast that when we ran our Lorentz equation, we got a factor of 2, that would mean that for two years that Bob experiences, Alice will only experience one. Notice, however, that both of them would live these years normally, as if nothing strange was going on. It is a peculiar concept to visualize, but that is what happens when spacetime itself awakens.
 
@@ -175,7 +175,7 @@ The name of these relative differences in time is called Time Dilation, and it i
 
 It is not, however, the only weird thing about Special Relativity.
 
-We will not dive deep into this, but Special Relativity also states moving observers not only have their clocks slow down, but they also appear to be contracted in length relative to someone observing them. That would mean that if someone was watching you move really fast, you would not only appear to be experiencing time differently, but you would also appear to be much shorter in length than you are.  [^5]:
+We will not dive deep into this, but Special Relativity also states moving observers not only have their clocks slow down, but they also appear to be contracted in length relative to someone observing them. That would mean that if someone was watching you move really fast, you would not only appear to be experiencing time differently, but you would also appear to be much shorter in length than you are.  [^5]
 
 ### 3. How the Global Positioning System (“GPS”) works.
 

@@ -281,7 +281,7 @@ If you are still here, I hope the above helped you even a little. Most important
 
 Thinking Fast and Slow – Daniel Kahneman
 
-The Bogleheads Guide to Investing – Jack Bogle
+The Bogleheads Guide to Investing – Mel Lindauer, Michael LeBoeuf, and Taylor Larimore
 
 A Random Walk Down Wall Street – Burton Malkiel
 
